@@ -1,0 +1,104 @@
+{
+  "files": [
+    {
+      "key": "gi",
+      "kana": "ぎ",
+      "sha256": "5cc5fdd7ee241d9c86b34541da2a0f300028fa7177ddea2e88632174aec6b340",
+      "durationSeconds": 0.586735
+    },
+    {
+      "key": "gu",
+      "kana": "ぐ",
+      "sha256": "0443be2dae98b5e29ae985efcd0456ec0eabbe5ed23ab6ebf791efa6a93dd5a5",
+      "durationSeconds": 0.586735
+    },
+    {
+      "key": "ge",
+      "kana": "げ",
+      "sha256": "73be2b56f8fea8791c6eecd9955b267fac15e389867ef1dbd9a386429c620cea",
+      "durationSeconds": 0.586735
+    },
+    {
+      "key": "za",
+      "kana": "ざ",
+      "sha256": "fcc76035f46d050a75efce1d84139d7c5294eedd122b61a4f9f91510a48ff661",
+      "durationSeconds": 0.586735
+    },
+    {
+      "key": "zu",
+      "kana": "ず",
+      "sha256": "56eeca78c6c16bfbbcff09972417e78ef6ce684aa8dd46c9386ecc997de91c4a",
+      "durationSeconds": 0.586735
+    },
+    {
+      "key": "ze",
+      "kana": "ぜ",
+      "sha256": "74efb0ad37834ba392c3390e2e2d72e3da20d5fea2de9670cdc3338f2361532d",
+      "durationSeconds": 0.586735
+    },
+    {
+      "key": "di",
+      "kana": "ぢ",
+      "sha256": "eb9d3af972f94c07a83ec7cd757969aec7cdcaa293f60eb3fcacde1c8520aee8",
+      "durationSeconds": 0.586735
+    },
+    {
+      "key": "du",
+      "kana": "づ",
+      "sha256": "bb70aeb624cebb7cc4b1522ba1cdc9a4cdb4edb10f5251a1d4ed46c15b823ba9",
+      "durationSeconds": 0.586735
+    },
+    {
+      "key": "bu",
+      "kana": "ぶ",
+      "sha256": "d34e9c02c0578633a6f676e0e3a16f59c2f7642972f49c36a8d855a72a08ef40",
+      "durationSeconds": 0.586735
+    },
+    {
+      "key": "be",
+      "kana": "べ",
+      "sha256": "725787a06fc9365a87f4fe2bd9d2b77e34840c1636a910e3239de713c63a94da",
+      "durationSeconds": 0.586735
+    },
+    {
+      "key": "bo",
+      "kana": "ぼ",
+      "sha256": "be41b93a0ac9322c91cb332bfbabb973bd28486e424214f84c02172921708378",
+      "durationSeconds": 0.586735
+    },
+    {
+      "key": "pa",
+      "kana": "ぱ",
+      "sha256": "7eb0a44888fbd9eab34035fc1243b15233f9dcd0d46ffb5d1155e06101820c33",
+      "durationSeconds": 0.586735
+    },
+    {
+      "key": "pi",
+      "kana": "ぴ",
+      "sha256": "38c8fdc9a12eb2c8ae5c700c7850435b7d41d0dfa511df6b699a7bddd5934553",
+      "durationSeconds": 0.586735
+    },
+    {
+      "key": "pu",
+      "kana": "ぷ",
+      "sha256": "23642791365ad67d6dc762a4426f1536f3b65f648a251e0565e589d70613cce9",
+      "durationSeconds": 0.586735
+    },
+    {
+      "key": "pe",
+      "kana": "ぺ",
+      "sha256": "bdf622e7509f5b831db48eb705a6ed70764c75848b58047c7dfd1ec809114234",
+      "durationSeconds": 0.586735
+    },
+    {
+      "key": "po",
+      "kana": "ぽ",
+      "sha256": "bfcf88db27a05d7b549d6ab813ecc6e3d97bf0fe6a08ccd03550d677f6ddc96c",
+      "durationSeconds": 0.586735
+    }
+  ],
+  "byteIdenticalToUserDownloads": true,
+  "ffmpegDecoded": 16,
+  "processing": "none",
+  "upstreamHashVerified": false
+}

@@ -1,0 +1,5231 @@
+{
+  "count": 55,
+  "files": [
+    {
+      "kana": "あ",
+      "key": "a",
+      "original": "assets/audio-preferred-original/a.wav",
+      "mp3": "assets/audio-preferred/a.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.685333,
+      "originalSHA1": "d98ace2ea569c0ac9d761d2e40df27146d95f0ed",
+      "originalSHA256": "10bb3e8875fdb98f430670b11d5fc8eb5e46ae7da140f3ac63363a4d652d1389",
+      "mp3SHA256": "cdae0c8e4a1e4d99115960b353f28003c589e99ee8097b3600cdb1f690786f29",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-あ.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 22:08:13",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-あ",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "い",
+      "key": "i",
+      "original": "assets/audio-preferred-original/i.wav",
+      "mp3": "assets/audio-preferred/i.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.717333,
+      "originalSHA1": "a25128d1af13bc2f60777905603af178977b2b75",
+      "originalSHA256": "9146eac5fa95d5799cb21c45fe136c9ee6784bae830a6507902d55975330cae0",
+      "mp3SHA256": "987fa16c1ca3a09d464457a6fc8cd86e028a6be5c071ee00e6dd1c913730c93d",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-い.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-20 18:49:35",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-い",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-20",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "う",
+      "key": "u",
+      "original": "assets/audio-preferred-original/u.wav",
+      "mp3": "assets/audio-preferred/u.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.725333,
+      "originalSHA1": "644fa57814a402479e2af9caf2422f9486742528",
+      "originalSHA256": "ddfbdb20b19aa4ebad237021f6a71dc867bf96b0b584cd3183133801d2c85885",
+      "mp3SHA256": "db96db4c00eed858afc1f820059d84db1264ca204321008cbec21e8559ecafca",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-う.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 23:46:02",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-う",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "え",
+      "key": "e",
+      "original": "assets/audio-preferred-original/e.wav",
+      "mp3": "assets/audio-preferred/e.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.741333,
+      "originalSHA1": "556a248ebbc9c398c0556cc4ca3b85c6fe4e1159",
+      "originalSHA256": "d38c190c2f86467da737edabad0cb7797f954b03e424b2ab33cbe5e265e8e784",
+      "mp3SHA256": "f7f6fc4883c1250632036a759a3fc829ac0a3a6bf5492104ac11e0da3d4c36bf",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-え.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 22:53:48",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-え",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "お",
+      "key": "o",
+      "original": "assets/audio-preferred-original/o.wav",
+      "mp3": "assets/audio-preferred/o.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.698667,
+      "originalSHA1": "70ae064776c36f84f39703afc3eff9ba50930697",
+      "originalSHA256": "fca352e1edde0c1a9b7bf34b3f8810f077fa33d8978a48d02a689287eb38b856",
+      "mp3SHA256": "3c91b8a1738883056488ab347a89c50f0424f29a0c9490dfe6ac5e37e6e73148",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-お.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 22:47:27",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-お",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "か",
+      "key": "ka",
+      "original": "assets/audio-preferred-original/ka.wav",
+      "mp3": "assets/audio-preferred/ka.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.658667,
+      "originalSHA1": "3b7835f6baa0fe79dc43dfe791fee88cea0240c4",
+      "originalSHA256": "bbfda65afc1bd209a49693b85799b10b8cf15b9e991a1fb4dd3e1d007413d9af",
+      "mp3SHA256": "708ae08a759d28223028e3d2888a35de4131c02db276c06566c889e48a1a7b86",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-か.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 22:44:35",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-か",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "き",
+      "key": "ki",
+      "original": "assets/audio-preferred-original/ki.wav",
+      "mp3": "assets/audio-preferred/ki.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.664,
+      "originalSHA1": "cf64a3d9202ae8524df9c1853414fe1e0e566788",
+      "originalSHA256": "07adbfd9e083376cfe305a69e18cbc6c7665f8acb21bafe7868929ef75f9a2ef",
+      "mp3SHA256": "2adc3451fb6306f440fa4af003769e7c9fa74ff53680bb08e4dda5af666af5f2",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-き.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 22:04:44",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-き",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "く",
+      "key": "ku",
+      "original": "assets/audio-preferred-original/ku.wav",
+      "mp3": "assets/audio-preferred/ku.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.709333,
+      "originalSHA1": "5ddf1aef15e3b20aca7779f14a603cc7a18b291d",
+      "originalSHA256": "4c1e67ac70339249bcb172f01402374ba5b7f19923a8f813cae664ecb9d56f6f",
+      "mp3SHA256": "b889a52cbc2aeb38a377f8717f6400a1c7527ee9a3134a4e4190c6d815a69a1e",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-く.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 23:41:56",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-く",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "け",
+      "key": "ke",
+      "original": "assets/audio-preferred-original/ke.wav",
+      "mp3": "assets/audio-preferred/ke.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.728,
+      "originalSHA1": "468fa1027b7601c88b8e2327021d778527dc8ac2",
+      "originalSHA256": "3a5494e4d3fcc8f65745bd0c7fad5da63c7f53f90fcf8662f49cca21a0415487",
+      "mp3SHA256": "7f3442a25c2b6eb5c4587cea46e97ed107f16b89f4ea1674761c6bb64ec7b397",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-け.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 04:19:18",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-け",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "こ",
+      "key": "ko",
+      "original": "assets/audio-preferred-original/ko.wav",
+      "mp3": "assets/audio-preferred/ko.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.669333,
+      "originalSHA1": "1de84c8f3b1f74d1c2ec2d7c07fd908d48e66cec",
+      "originalSHA256": "765c912ddd6d291cb1db80e41c0bb0dbd4f78c09ef743be91cf29e7dff50e792",
+      "mp3SHA256": "3ed6e60b23c5e50bc4be53a004d4be00f863d568111c1251c9a8201ff83b657e",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-こ.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 23:12:46",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-こ",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "さ",
+      "key": "sa",
+      "original": "assets/audio-preferred-original/sa.wav",
+      "mp3": "assets/audio-preferred/sa.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.672,
+      "originalSHA1": "b67dfe611c24ca415f5d336562de7fd2be03bb6e",
+      "originalSHA256": "7c3f3f859697f75c055686002c2153c5637a03c111d6ec3f394e678ea384d26c",
+      "mp3SHA256": "7ab8ea6a081eaeb26b82d50a7ba2415a2eb30184d2c7f858c3fad982d15388b6",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-さ.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 23:41:56",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-さ",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "し",
+      "key": "shi",
+      "original": "assets/audio-preferred-original/shi.wav",
+      "mp3": "assets/audio-preferred/shi.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.642667,
+      "originalSHA1": "cb2d4cf9dc3eeb8d487486b45ded40ecb7d72b4a",
+      "originalSHA256": "c075e07ddd2a0f84e57596392360b87a3a763338220bf94abb846d6a579fa955",
+      "mp3SHA256": "345f4b49b7fe9fae11ef796c18145f310b8a1afd81be68806b4835e6da656db6",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-し.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 22:12:57",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-し",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "す",
+      "key": "su",
+      "original": "assets/audio-preferred-original/su.wav",
+      "mp3": "assets/audio-preferred/su.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.72,
+      "originalSHA1": "315c9198d6765f2f669ea166414d3655f924eaba",
+      "originalSHA256": "f51f0aec7ab311a2db9483805ec92b08caacb487cefe3bd9b7006ebfe00169de",
+      "mp3SHA256": "60b0ee6a6cf874805f3826b1da2339bb9ca04c3107f71d6040fbb1638ef0d80a",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-す.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 23:41:58",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-す",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "せ",
+      "key": "se",
+      "original": "assets/audio-preferred-original/se.wav",
+      "mp3": "assets/audio-preferred/se.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.669333,
+      "originalSHA1": "f8872a26818032d9b6a6b967d142d7ece8c2388e",
+      "originalSHA256": "61dd73279c946f883b52391e8b874b086cd8a9d01f575c4829ae6ff131eb153f",
+      "mp3SHA256": "1cf7dd5d502e4cb4e525293f9c1371c770f4a23d6771e2fd4d10eb2ca40a3a88",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-せ.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 04:28:40",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-せ",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "そ",
+      "key": "so",
+      "original": "assets/audio-preferred-original/so.wav",
+      "mp3": "assets/audio-preferred/so.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.690667,
+      "originalSHA1": "f6b6e0b5f920ba85e544ccddbab3269727ed0dc6",
+      "originalSHA256": "681a37f9bc8f50f936d87ce44cc9ba11c8b48cce7296014d14f3dc658e384ee8",
+      "mp3SHA256": "025db211e36cd4ee19f01224ca53f39c235e75f0a05e593cfe8437df958a6c60",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-そ.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 04:53:48",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-そ",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "た",
+      "key": "ta",
+      "original": "assets/audio-preferred-original/ta.wav",
+      "mp3": "assets/audio-preferred/ta.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.677333,
+      "originalSHA1": "ff85c4808710e980a9de651d6af55329d9409d71",
+      "originalSHA256": "779de549c663380daf77e1c5c6fcd05d6cd3dd89194c533e034e8d194a1fa7ea",
+      "mp3SHA256": "69edd57a9164991f886abb76a10788550255e103c545dbac08277884f67062c7",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-た.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 04:11:18",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-た",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "ち",
+      "key": "chi",
+      "original": "assets/audio-preferred-original/chi.wav",
+      "mp3": "assets/audio-preferred/chi.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.68,
+      "originalSHA1": "2feaf37f295f0a0acdec51e006ba6560fe158953",
+      "originalSHA256": "48e07338cc925bbe93e86fb6aa9b684c9d283a27105d58fd5b79fba47834cec9",
+      "mp3SHA256": "b55b808dc190c236c1711975401264a57fa859e1f9351434ae3dea600cdb715a",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-ち.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 23:43:30",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-ち",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "つ",
+      "key": "tsu",
+      "original": "assets/audio-preferred-original/tsu.wav",
+      "mp3": "assets/audio-preferred/tsu.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.725333,
+      "originalSHA1": "a71b923a26e81cb82a9882d23a3abefa3ad56674",
+      "originalSHA256": "bf411572e5019ee5b2e34f4217d5134fec59b5b5d76aa508530760452980482e",
+      "mp3SHA256": "0dbfd547466e80773bfb08b3fa4cc331e38a505dce8282ce15e5d6f734de40d6",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-つ.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 04:11:19",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-つ",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "て",
+      "key": "te",
+      "original": "assets/audio-preferred-original/te.wav",
+      "mp3": "assets/audio-preferred/te.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.658667,
+      "originalSHA1": "bdbf8e049c07f1b4537c4931de5473bc3f72ab40",
+      "originalSHA256": "8ed7319acf9ce1728fac731d3c0555d833f832fbb7c00188a4228b1375684e85",
+      "mp3SHA256": "79e76fc5aab88727fb23a9afa420333dc9209bd03ab349da52842d41a71563f1",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-て.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 22:14:14",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-て",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "と",
+      "key": "to",
+      "original": "assets/audio-preferred-original/to.wav",
+      "mp3": "assets/audio-preferred/to.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.690667,
+      "originalSHA1": "86ee6e1c3a3f0123bf5657e2e7dcf1eafb8bf1d1",
+      "originalSHA256": "391fecf481ba168185f3b06d629c9a4f825d5981483f337e7c7d04037ac90389",
+      "mp3SHA256": "369a3515965bf9bcf3ebffa53761c59c728dec9aa8487dea7db9d0c226e52ff2",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-と.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 22:45:18",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-と",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "な",
+      "key": "na",
+      "original": "assets/audio-preferred-original/na.wav",
+      "mp3": "assets/audio-preferred/na.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.725333,
+      "originalSHA1": "4187a41bb9ab1be793497f96798d7cd69f4f2a03",
+      "originalSHA256": "2cfa937ae0203e3b16ec20dae2ede30fa3dde261a155fde7b1a49dd7e44e3940",
+      "mp3SHA256": "e33c253ec6fcedb5b2ab8c963f00fc6b801119a2767772cc121cf44a34570c4f",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-な.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 23:02:39",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-な",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "に",
+      "key": "ni",
+      "original": "assets/audio-preferred-original/ni.wav",
+      "mp3": "assets/audio-preferred/ni.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.744,
+      "originalSHA1": "6558bb546ec2751fd924d0b9b037a9d351890010",
+      "originalSHA256": "61eabbab7ff645bd1f29dab723859275d58b66b1965c11debae4b7e377ac1bc5",
+      "mp3SHA256": "e8958b8027311260eb7363160272b090a0ceabb54c77b444a592e08d34ef5967",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-ニ.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 19:32:40",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-ニ",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "ぬ",
+      "key": "nu",
+      "original": "assets/audio-preferred-original/nu.wav",
+      "mp3": "assets/audio-preferred/nu.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.84,
+      "originalSHA1": "c031491a08647b935e5606636f62f6286bca17af",
+      "originalSHA256": "7d984b0f1117e5eabb89adcb7929056c701f44e499d18dc7ab89be355b74fada",
+      "mp3SHA256": "47726df45759ff9aa1a78e066c3d656841978a0d7d7485bf916fae26248e94ea",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-ぬ.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 05:00:13",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-ぬ",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "ね",
+      "key": "ne",
+      "original": "assets/audio-preferred-original/ne.wav",
+      "mp3": "assets/audio-preferred/ne.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.749333,
+      "originalSHA1": "93500f2bf5d499647e801e10298028779e5c137f",
+      "originalSHA256": "db1685cbea965748672641ace442fb59815f17156e3c681325cb3f3b24e70fe1",
+      "mp3SHA256": "9604cd5c199a304ded1a72ffd2c61eb90d8b544ea88979860aeda31c80a8b17f",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-ね.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 23:43:31",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-ね",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "の",
+      "key": "no",
+      "original": "assets/audio-preferred-original/no.wav",
+      "mp3": "assets/audio-preferred/no.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.738667,
+      "originalSHA1": "cf4a59b3f6e1a2dbc55e2f16c327011c03aa5960",
+      "originalSHA256": "8ff0c20591177dc0abf9d4f3225beb09825829e8ae4e65540150e5d152118c71",
+      "mp3SHA256": "ec423955878bd1f8776219d44c3c2cda62b97ca811d459037e6ab85db55d50cf",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-の.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 22:27:12",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-の",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "は",
+      "key": "ha",
+      "original": "assets/audio-preferred-original/ha.wav",
+      "mp3": "assets/audio-preferred/ha.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.661333,
+      "originalSHA1": "fe49289e0e6c3cf7873ad12529c037bf23932546",
+      "originalSHA256": "98dfd4924e6696817bff3486d3329eec6c31993f4b5b0e13f364f1acc9ebe6e1",
+      "mp3SHA256": "c6e4f207eda2db9b9dcf8cb457f5011ca19431f377f6fc349533c6526bb6e48e",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-は.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 22:30:46",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-は",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "ひ",
+      "key": "hi",
+      "original": "assets/audio-preferred-original/hi.wav",
+      "mp3": "assets/audio-preferred/hi.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.685333,
+      "originalSHA1": "41b4adb8e42146252c9260e33abd8052a2106f36",
+      "originalSHA256": "52a763c3c0f70da2d8eadeecd0edf98aca6eee7f21b3c86b4d0da20b13a8df00",
+      "mp3SHA256": "0aa0c1ffa3921b04636b88b8ec2a456db99d50af6247e8cb6e4f6cf4fa25a9a1",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-ひ.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 23:16:29",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-ひ",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "ふ",
+      "key": "fu",
+      "original": "assets/audio-preferred-original/fu.wav",
+      "mp3": "assets/audio-preferred/fu.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.704,
+      "originalSHA1": "cc259eb3c9653752327d713f7db04384aa33933d",
+      "originalSHA256": "6fd45b563ea40030b2f35add54f335067e1d8b5f2648297a31f903c6558cfa75",
+      "mp3SHA256": "72ee2567a6abe039d22c065fde861d0c152b03b01c728a8e30cd94d002addc1c",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-ふ.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 23:18:14",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-ふ",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "へ",
+      "key": "he",
+      "original": "assets/audio-preferred-original/he.wav",
+      "mp3": "assets/audio-preferred/he.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.682667,
+      "originalSHA1": "dcdaba9bf764fb9079921a64a2e9f6719b5fde72",
+      "originalSHA256": "b09e1be25a44edaf7135611eeee06986d6b16bc3320479e121eb5b663f38d2e9",
+      "mp3SHA256": "d7969851fcf0de6c282dbd951d287c8ea392e6cb7145593610eef90b633f11d7",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-へ.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 23:03:31",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-へ",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "ほ",
+      "key": "ho",
+      "original": "assets/audio-preferred-original/ho.wav",
+      "mp3": "assets/audio-preferred/ho.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.725333,
+      "originalSHA1": "408dba0bc2e4c4e4a9d8ac9937241afb3f666d6b",
+      "originalSHA256": "eead46560a6bf3471837a5b59103ff8bda2c0eb69b1cd4bd2e546af930026923",
+      "mp3SHA256": "b4f6688049d6a50346034ae094b92450db0c49ab9f66419133c62bc8cc310a88",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-ほ.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 04:11:22",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-ほ",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "ま",
+      "key": "ma",
+      "original": "assets/audio-preferred-original/ma.wav",
+      "mp3": "assets/audio-preferred/ma.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.693333,
+      "originalSHA1": "2828b1bc89f88542733b9bad8f478d33d0f9b67a",
+      "originalSHA256": "50c9da0a268e10b15de44918080fec5d4eaa63ad5eb2b932eed3de9c02620cae",
+      "mp3SHA256": "ed47bf6eca39982ab2c68c64840e9e6c5f862d4e108e8966540619e9fd3a741b",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-ま.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 04:28:42",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-ま",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "み",
+      "key": "mi",
+      "original": "assets/audio-preferred-original/mi.wav",
+      "mp3": "assets/audio-preferred/mi.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.725333,
+      "originalSHA1": "e41a0a8e1800d749d170e9d5e39264fddc82ab1d",
+      "originalSHA256": "5bfcf4d27ada78b58761ae1ef491379d70d6ddf1b5926cab865fb97fbe0b85d9",
+      "mp3SHA256": "823ed50203d0b0915f1c0300823c288a328f07f077dca89767a48487f4bd52c0",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-み.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 04:19:20",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-み",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "む",
+      "key": "mu",
+      "original": "assets/audio-preferred-original/mu.wav",
+      "mp3": "assets/audio-preferred/mu.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.730667,
+      "originalSHA1": "073c12516ef7fef709c9dfefbcf23b06cd957a07",
+      "originalSHA256": "6970950e1144cf57a56d7efcc77dc0145124dcaad01cfc9e62182c3e0b8d72d4",
+      "mp3SHA256": "aac6a69464566594a08b97a0e25a08db74452f4fd7cde9fd151dada639957378",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-む.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 05:12:21",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-む",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "め",
+      "key": "me",
+      "original": "assets/audio-preferred-original/me.wav",
+      "mp3": "assets/audio-preferred/me.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.749333,
+      "originalSHA1": "499252a4bb4d2c3d8c4189dacd52b6f33bd86571",
+      "originalSHA256": "cb43e757beb53c653fbc5329c59e518db32e3910a74ab8cc0e356ff904158b09",
+      "mp3SHA256": "d6c182c38977fe34ff49f7958658173da16f281ececd888414b0568c695a2ea5",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-め.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 23:19:32",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-め",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "も",
+      "key": "mo",
+      "original": "assets/audio-preferred-original/mo.wav",
+      "mp3": "assets/audio-preferred/mo.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.744,
+      "originalSHA1": "95f1e48e084628ad2a776dfff86ba8b4a7132cb5",
+      "originalSHA256": "a12737246a5084d2b7c241a501b0e8e9394b72ad987279f22045ec4156be4054",
+      "mp3SHA256": "eed088a4a474a502cd5c0ebbcd8a534169aa6e78b0df107c0868ae35a19a9f19",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-も.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 23:43:32",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-も",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "や",
+      "key": "ya",
+      "original": "assets/audio-preferred-original/ya.wav",
+      "mp3": "assets/audio-preferred/ya.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.736,
+      "originalSHA1": "69d639a10ed71da9d2be88435f3d9f664d01e99e",
+      "originalSHA256": "2079a4acb6cd1fdf7aae557381176a61f5e0c074f87620ca6c2bb9131e14e3af",
+      "mp3SHA256": "ae4ea0f33bfd7485efc1adc469136060a7e1dbf32f8f7fb4fe57d0b66b3a990b",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-や.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 23:04:01",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-や",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "ゆ",
+      "key": "yu",
+      "original": "assets/audio-preferred-original/yu.wav",
+      "mp3": "assets/audio-preferred/yu.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.781333,
+      "originalSHA1": "3781d17c170d207fa07c008f68c6c20c3eee0b3c",
+      "originalSHA256": "861f4d8b5f5b41868d602240bee583bbfcfbad86b21528a238f9b965ad747293",
+      "mp3SHA256": "fb5f1987bdeac5cd5f948239c81099802fcd4fff00470c2ddf3b364c6d0fb14e",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-ゆ.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 05:00:15",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-ゆ",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "よ",
+      "key": "yo",
+      "original": "assets/audio-preferred-original/yo.wav",
+      "mp3": "assets/audio-preferred/yo.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.728,
+      "originalSHA1": "1047cb8764fc5e6b820e8574a48039dd3da1d6ce",
+      "originalSHA256": "e86717d99bb291a46f88d0604b1507d74c083dfcc69206a039b7c8ca951ddcc0",
+      "mp3SHA256": "2cee9bb2c8426c1dd8402a7238535e5f6cf71d77fabd1925f6fc4ff492809f54",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-よ.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 04:19:20",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-よ",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "ら",
+      "key": "ra",
+      "original": "assets/audio-preferred-original/ra.wav",
+      "mp3": "assets/audio-preferred/ra.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.664,
+      "originalSHA1": "5b05681dcc0e404012fbe0ecc32718c387740105",
+      "originalSHA256": "88b6f00795e0922218de95098554fc9c47a6ccf4c9939f8a10b27a99cad783ec",
+      "mp3SHA256": "0563a001eed57e430108e7b180fbb4f0faf97e8076a0f4ce302db11384859fdc",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-ら.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 04:28:43",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-ら",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "り",
+      "key": "ri",
+      "original": "assets/audio-preferred-original/ri.wav",
+      "mp3": "assets/audio-preferred/ri.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.752,
+      "originalSHA1": "028dd7476ece7471c9611fc148dcf2d7b4ae2bcc",
+      "originalSHA256": "aac3223eaa9331c5016682b7500968be86e15833e45dd753ad3481ae4f36a784",
+      "mp3SHA256": "e07fcfd6d487cb57869cd706f8e7eaeb6c7790e7d95dcc357b48f6d32732f0e6",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-り.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 05:00:15",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-り",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "る",
+      "key": "ru",
+      "original": "assets/audio-preferred-original/ru.wav",
+      "mp3": "assets/audio-preferred/ru.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.696,
+      "originalSHA1": "c93783211cb7a614401ccec1716c902eeaeac5d6",
+      "originalSHA256": "6b4e39d528800de42a29e7c73b040c6c996f6d1c479397bfe84c99fddbd3242c",
+      "mp3SHA256": "ce4357730426d7e82ba863494f9517d1c1400b3aad2f7a5136e3251e0b68955e",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-る.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 04:19:22",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-る",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "れ",
+      "key": "re",
+      "original": "assets/audio-preferred-original/re.wav",
+      "mp3": "assets/audio-preferred/re.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.682667,
+      "originalSHA1": "b40bd9ccbec7edb72b758b694975b3123482340f",
+      "originalSHA256": "d7e17f9289966af3f2d97d9d84a94e8905dc5145e1830d8647b339ed80ecc664",
+      "mp3SHA256": "91ebe133dd622dd78cc4eb91186ad3482e97f73e30dba6763bb6ff109c681c88",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-れ.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 04:19:24",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-れ",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "ろ",
+      "key": "ro",
+      "original": "assets/audio-preferred-original/ro.wav",
+      "mp3": "assets/audio-preferred/ro.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.704,
+      "originalSHA1": "1941001e4d9825c1dde0937c5d4ff0ec9c52419f",
+      "originalSHA256": "1b80cb15cd122799b860514e2f43ce6865e9ebbaa7a39ab5866de17b7ac95d4e",
+      "mp3SHA256": "036f7b0efcb3b3f7c027b47f3257d379bc74e1f238b427314b8201f7154c1afa",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-ろ.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 04:19:24",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-ろ",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "わ",
+      "key": "wa",
+      "original": "assets/audio-preferred-original/wa.wav",
+      "mp3": "assets/audio-preferred/wa.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.709333,
+      "originalSHA1": "1cacc17caf55f72c828c7cf96e2e978a2f94d025",
+      "originalSHA256": "8c6b5fd79fa25b2b32e5a7e36b2ff6a636b0175de649a69a4171614fd61a1dd6",
+      "mp3SHA256": "9cae942b0b0673fd5903bdf2928a5b7b1a1541dee8af2406138a88b3d2299e12",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-わ.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 22:13:36",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-わ",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "を",
+      "key": "wo",
+      "original": "assets/audio-preferred-original/wo.wav",
+      "mp3": "assets/audio-preferred/wo.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.698667,
+      "originalSHA1": "67230552d86dfe07e640361e7b5858cc8387ff76",
+      "originalSHA256": "f7a85b14903b7cc45a34794b9cf6bfffc71b4ff94a0a495116bcf248a358a3b7",
+      "mp3SHA256": "509c324255bfd16a714a50d66a7cd505b8d1cc011951a94d5ed48529eb97e7a3",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-を.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 23:43:34",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-を",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "ん",
+      "key": "n",
+      "original": "assets/audio-preferred-original/n.wav",
+      "mp3": "assets/audio-preferred/n.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.728,
+      "originalSHA1": "cf7051235f48d3d106724eac1f5b1627b2206e96",
+      "originalSHA256": "89bceadf190a24705525dccaf68100c26da98a8bd6473362f3c69780991d07f8",
+      "mp3SHA256": "f93916e8aa7592be106f53e9a2e4a4a8c308ede4ea8f5a91524a9e257157edf1",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-ん.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-05 23:43:36",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-ん",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "が",
+      "key": "ga",
+      "original": "assets/audio-preferred-original/ga.wav",
+      "mp3": "assets/audio-preferred/ga.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.666667,
+      "originalSHA1": "2992d6d10554d04aade35e00b65386a060a3ea33",
+      "originalSHA256": "217c1b2a619cfa8567dad5dc0afb7ca0dde90feef7647f8254627bc34a297b2d",
+      "mp3SHA256": "b18e13348b5c88c8984dcba4ab90172a1c888c6733f0892bfdc880a79b493e0b",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-が.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 04:28:38",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-が",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "ご",
+      "key": "go",
+      "original": "assets/audio-preferred-original/go.wav",
+      "mp3": "assets/audio-preferred/go.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.685333,
+      "originalSHA1": "9a4dca07b3425327a206d59a7cbaa40a7df3b2c6",
+      "originalSHA256": "eb90b618274b6974ff8c597423792e745c0494f3567d50ef91c9302b44438017",
+      "mp3SHA256": "75640978835e660f377c8804b80628814512cabe8518758339c1e7230124c0de",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-ご.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 04:19:18",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-ご",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "じ",
+      "key": "ji",
+      "original": "assets/audio-preferred-original/ji.wav",
+      "mp3": "assets/audio-preferred/ji.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.813333,
+      "originalSHA1": "51a720e397aeee9ceb226f132ca5112439ed9f66",
+      "originalSHA256": "23e783d44da7113781fc25714428e7ab91f97070e9eb2a5aa0656adfb59c99cd",
+      "mp3SHA256": "99c07405910e1df7c67deb1a3f2c9259fd8b50f1d7df6fdc57ad37779c95c6d6",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-じ.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 05:49:48",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-じ",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "ぞ",
+      "key": "zo",
+      "original": "assets/audio-preferred-original/zo.wav",
+      "mp3": "assets/audio-preferred/zo.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.709333,
+      "originalSHA1": "955e6c6f3fca5a3e7b075b26a5b68fbfb4f8154e",
+      "originalSHA256": "783f32d24fcd87d4276881ee00fd4589f2d1471ca20c183f3eb6ef95c2c16bbf",
+      "mp3SHA256": "cfb2da40cd9b6cb58d645f163ea4837577b61d9ad43f978062f3bac0b3f55f40",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-ぞ.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 20:01:23",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-ぞ",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "だ",
+      "key": "da",
+      "original": "assets/audio-preferred-original/da.wav",
+      "mp3": "assets/audio-preferred/da.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.685333,
+      "originalSHA1": "41527266b042f36cd3fa6b44b32fb3130f6c6d92",
+      "originalSHA256": "0c478a2eeeb7ba3fdf9dc9b1959169a452bc89aa6c0a9a4eb87ffafd1859b7fc",
+      "mp3SHA256": "622da2e7b339e95c0e280605d973a05f6c5d938344c0c28b8f7004a82c46926b",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-だ.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 05:00:13",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-だ",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "で",
+      "key": "de",
+      "original": "assets/audio-preferred-original/de.wav",
+      "mp3": "assets/audio-preferred/de.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.674667,
+      "originalSHA1": "71b477e5be7d3a9888e9d7eea476f87afd0b576d",
+      "originalSHA256": "886d71e2d3e0656f5117ad2d50a1da12b997620e837f095e1c7b09c9f37b7644",
+      "mp3SHA256": "e975c9ff09b0ca6d45e9b858b946c332e5f0f5ffcd0ec64cd414c79988e7b6c3",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-で.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 16:43:08",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-で",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "ど",
+      "key": "do",
+      "original": "assets/audio-preferred-original/do.wav",
+      "mp3": "assets/audio-preferred/do.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.698667,
+      "originalSHA1": "6d8f50390e898d917b933cf5ec7351b25ee30edd",
+      "originalSHA256": "5001fabc35a01b822def5f2d5b377e8744d1427c5d43d92eff97f9678276f083",
+      "mp3SHA256": "60e51da2cdeb4f7b19836426682352afaa6329795c0a7547706e76fcf7632a2a",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-ど.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 19:21:23",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-ど",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "ば",
+      "key": "ba",
+      "original": "assets/audio-preferred-original/ba.wav",
+      "mp3": "assets/audio-preferred/ba.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.688,
+      "originalSHA1": "4779fe20a099823b2afd3cc41c2f1af8cca8ced1",
+      "originalSHA256": "0f7fdc6a9d8eccd3cd13adeef88d2a5bc9b213fe6c940da7dcb60250b2811f29",
+      "mp3SHA256": "454f616e817cf07b7e9dd31bc2a14651596e27a9c01cf0aa5083b0fd27169c4e",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-ば.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 19:21:28",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-ば",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    },
+    {
+      "kana": "び",
+      "key": "bi",
+      "original": "assets/audio-preferred-original/bi.wav",
+      "mp3": "assets/audio-preferred/bi.mp3",
+      "source": "[local verification]",
+      "download": "[local verification]",
+      "author": "Fukujinzuke",
+      "license": "CC BY 4.0",
+      "licenseURL": "[local verification]",
+      "durationSeconds": 0.693333,
+      "originalSHA1": "61f4270d0f227b924517d5a0051cd62c0962876a",
+      "originalSHA256": "1567f21ed3682627a14fddf820578f5e7fcd1136754f93036120c01820ad4426",
+      "mp3SHA256": "53a37ae923ff0c485cd0463b0955ac920ec3e743024bc78636642bf429c9d362",
+      "originalFilename": "LL-Q5287_(jpn)-Fukujinzuke-び.wav",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-10-19 20:03:37",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LL-Q5287 (jpn)-Fukujinzuke-び",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Lingua Libre pronunciation-jpn|Lingua Libre pronunciation by Fukujinzuke",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-10-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li>Speaker: Fukujinzuke</li>\n<li>Recorder: <a href=\"//commons.wikimedia.org/wiki/User:Fukujinzuke\" title=\"User:Fukujinzuke\">Fukujinzuke</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "[local verification]",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "upstreamHashVerified": true,
+      "originalDecoded": true,
+      "mp3Decoded": true,
+      "tier": "preferred"
+    }
+  ],
+  "originalsPreserved": true
+}

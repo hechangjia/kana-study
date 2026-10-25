@@ -1,0 +1,485 @@
+{
+  "date": "2026-10-25",
+  "version": "2.2",
+  "passed": true,
+  "coverage": {
+    "entries": 208,
+    "audio": 71,
+    "fukujinzuke": 55,
+    "tofugu": 16,
+    "yoonAudio": 0
+  },
+  "browser": {
+    "browser": "Chrome headless on Windows",
+    "mode": "[local verification]",
+    "cases": [
+      "play/pause/restart",
+      "step/progress slider",
+      "stroke numbers toggle",
+      "romaji toggle",
+      "search/empty/clear",
+      "script and group switching",
+      "counterpart",
+      "keyboard navigation",
+      "local PNG opens in separate tab",
+      "desktop screenshot",
+      "390px and 320px no overflow",
+      "source page mobile layout",
+      "single recording; no version selector",
+      "71 selected recording mappings",
+      "paired glyph toggle",
+      "ti alias search",
+      "handwriting draw/undo/clear/guide/reset"
+    ],
+    "charactersSelected": 208,
+    "audioPlayed": [
+      {
+        "key": "a",
+        "duration": 0.685333,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "i",
+        "duration": 0.717333,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "u",
+        "duration": 0.725333,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "e",
+        "duration": 0.741333,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "o",
+        "duration": 0.698667,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "ka",
+        "duration": 0.658667,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "ki",
+        "duration": 0.664,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "ku",
+        "duration": 0.709333,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "ke",
+        "duration": 0.728,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "ko",
+        "duration": 0.669333,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "sa",
+        "duration": 0.672,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "shi",
+        "duration": 0.642667,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "su",
+        "duration": 0.72,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "se",
+        "duration": 0.669333,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "so",
+        "duration": 0.690667,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "ta",
+        "duration": 0.677333,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "chi",
+        "duration": 0.68,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "tsu",
+        "duration": 0.725333,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "te",
+        "duration": 0.658667,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "to",
+        "duration": 0.690667,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "na",
+        "duration": 0.725333,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "ni",
+        "duration": 0.744,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "nu",
+        "duration": 0.84,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "ne",
+        "duration": 0.749333,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "no",
+        "duration": 0.738667,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "ha",
+        "duration": 0.661333,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "hi",
+        "duration": 0.685333,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "fu",
+        "duration": 0.704,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "he",
+        "duration": 0.682667,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "ho",
+        "duration": 0.725333,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "ma",
+        "duration": 0.693333,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "mi",
+        "duration": 0.725333,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "mu",
+        "duration": 0.730667,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "me",
+        "duration": 0.749333,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "mo",
+        "duration": 0.744,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "ya",
+        "duration": 0.736,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "yu",
+        "duration": 0.781333,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "yo",
+        "duration": 0.728,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "ra",
+        "duration": 0.664,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "ri",
+        "duration": 0.752,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "ru",
+        "duration": 0.696,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "re",
+        "duration": 0.682667,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "ro",
+        "duration": 0.704,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "wa",
+        "duration": 0.709333,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "wo",
+        "duration": 0.698667,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "n",
+        "duration": 0.728,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "ga",
+        "duration": 0.666667,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "gi",
+        "duration": 0.586735,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "gu",
+        "duration": 0.586735,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "ge",
+        "duration": 0.586735,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "go",
+        "duration": 0.685333,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "za",
+        "duration": 0.586735,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "ji",
+        "duration": 0.813333,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "zu",
+        "duration": 0.586735,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "ze",
+        "duration": 0.586735,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "zo",
+        "duration": 0.709333,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "da",
+        "duration": 0.685333,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "di",
+        "duration": 0.586735,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "du",
+        "duration": 0.586735,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "de",
+        "duration": 0.674667,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "do",
+        "duration": 0.698667,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "ba",
+        "duration": 0.688,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "bi",
+        "duration": 0.693333,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "bu",
+        "duration": 0.586735,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "be",
+        "duration": 0.586735,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "bo",
+        "duration": 0.586735,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "pa",
+        "duration": 0.586735,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "pi",
+        "duration": 0.586735,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "pu",
+        "duration": 0.586735,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "pe",
+        "duration": 0.586735,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "key": "po",
+        "duration": 0.586735,
+        "advanced": true,
+        "error": null
+      }
+    ],
+    "consoleErrors": [],
+    "networkRequests": [],
+    "passed": true
+  },
+  "cleanup": {
+    "removedAudioFiles": 142,
+    "removedVersionSelector": true,
+    "additionalBackupCreated": false
+  },
+  "limits": [
+    "No physical handset or Firefox test.",
+    "Programmatic playback verification only.",
+    "Tofugu publication authorized by site owner; no general redistribution license granted."
+  ],
+  "publication": {
+    "preparedFor": "GitHub Pages",
+    "prePublishBrowserPassed": true,
+    "charactersChecked": 208,
+    "audioFilesPlayed": 71,
+    "personalLocalPathsExcluded": true,
+    "tofuguPublicationAuthorization": "Site owner confirmed on 2026-10-25; no general sublicense granted."
+  }
+}
