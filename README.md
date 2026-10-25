@@ -2,7 +2,7 @@
 
 中文界面的日语假名学习页，使用 HTML、CSS 和 JavaScript，无需构建。
 
-**在线使用：https://hechangjia.github.io/kana-study/**
+**在线使用：https://kana.662613.xyz/**
 
 - 平片假名共208张字卡，支持切换、对照和搜索。
 - 动态笔顺、逐笔播放、PNG/GIF/SVG素材与手写练习。
