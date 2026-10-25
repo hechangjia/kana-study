@@ -6,8 +6,8 @@
 
 - 平片假名共208张字卡，支持切换、对照和搜索。
 - 动态笔顺、逐笔播放、PNG/GIF/SVG素材与手写练习。
-- 71个真人单音：55个Fukujinzuke + 16个Tofugu。
-- 拗音33组提供笔顺和图像，暂未收录音频。
+- 默认DJT Kana发音，208张字卡均可听音；可切换之前的Fukujinzuke/Tofugu录音。
+- 拗音33组提供笔顺、图像和完整录音。
 - 下载仓库后直接打开 index.html，也可离线使用。
 
 ## GitHub Pages
@@ -16,6 +16,7 @@
 ## 来源与授权
 笔顺和程序：LGPL-3.0-or-later；Fukujinzuke录音：CC BY 4.0。
 Tofugu录音版权属于Tofugu LLC，站点所有者已确认拥有本次公开发布授权；不因此向其他使用者授予通用再分发许可。
+DJT录音作者和再分发许可未核实，不归入程序或其他素材的许可证。
 逐项来源见 sources.html、manifest.json 和 LICENSE.md。各类素材的许可分别适用。
 
 ## 开发与验证

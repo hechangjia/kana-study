@@ -15,3 +15,6 @@ Fukujinzuke / Lingua Libre, Wikimedia Commons. CC BY 4.0: https://creativecommon
 
 ## V2.1 Tofugu recordings
 16 MP3 files in assets/audio-tofugu were supplied by the user and copied without conversion or modification. Copyright © Tofugu LLC. The site owner confirmed authorization to publish these recordings on this site on 2026-10-25; this does not grant a general redistribution license; these recordings are NOT covered by the CC BY or LGPL notices above. Source: https://www.tofugu.com/japanese/learn-hiragana/
+
+## DJT default audio
+101 original MP3 files are sourced from https://djtguide.neocities.org/kana/ and copied unchanged. The recording author and audio redistribution license have not been verified. These files are not covered by the application LGPL license or the other recordings' CC BY license. See sources.html and manifest.json for per-file provenance.

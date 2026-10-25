@@ -6,11 +6,11 @@
       "key": "a",
       "original": "assets/audio-preferred-original/a.wav",
       "mp3": "assets/audio-preferred/a.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%82.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/a/a4/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%82.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.685333,
       "originalSHA1": "d98ace2ea569c0ac9d761d2e40df27146d95f0ed",
       "originalSHA256": "10bb3e8875fdb98f430670b11d5fc8eb5e46ae7da140f3ac63363a4d652d1389",
@@ -72,7 +72,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -101,11 +101,11 @@
       "key": "i",
       "original": "assets/audio-preferred-original/i.wav",
       "mp3": "assets/audio-preferred/i.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%84.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/2/2e/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%84.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.717333,
       "originalSHA1": "a25128d1af13bc2f60777905603af178977b2b75",
       "originalSHA256": "9146eac5fa95d5799cb21c45fe136c9ee6784bae830a6507902d55975330cae0",
@@ -167,7 +167,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -196,11 +196,11 @@
       "key": "u",
       "original": "assets/audio-preferred-original/u.wav",
       "mp3": "assets/audio-preferred/u.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%86.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/4/49/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%86.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.725333,
       "originalSHA1": "644fa57814a402479e2af9caf2422f9486742528",
       "originalSHA256": "ddfbdb20b19aa4ebad237021f6a71dc867bf96b0b584cd3183133801d2c85885",
@@ -262,7 +262,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -291,11 +291,11 @@
       "key": "e",
       "original": "assets/audio-preferred-original/e.wav",
       "mp3": "assets/audio-preferred/e.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%88.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/4/40/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%88.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.741333,
       "originalSHA1": "556a248ebbc9c398c0556cc4ca3b85c6fe4e1159",
       "originalSHA256": "d38c190c2f86467da737edabad0cb7797f954b03e424b2ab33cbe5e265e8e784",
@@ -357,7 +357,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -386,11 +386,11 @@
       "key": "o",
       "original": "assets/audio-preferred-original/o.wav",
       "mp3": "assets/audio-preferred/o.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%8A.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/5/5b/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%8A.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.698667,
       "originalSHA1": "70ae064776c36f84f39703afc3eff9ba50930697",
       "originalSHA256": "fca352e1edde0c1a9b7bf34b3f8810f077fa33d8978a48d02a689287eb38b856",
@@ -452,7 +452,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -481,11 +481,11 @@
       "key": "ka",
       "original": "assets/audio-preferred-original/ka.wav",
       "mp3": "assets/audio-preferred/ka.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%8B.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/f/f8/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%8B.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.658667,
       "originalSHA1": "3b7835f6baa0fe79dc43dfe791fee88cea0240c4",
       "originalSHA256": "bbfda65afc1bd209a49693b85799b10b8cf15b9e991a1fb4dd3e1d007413d9af",
@@ -547,7 +547,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -576,11 +576,11 @@
       "key": "ki",
       "original": "assets/audio-preferred-original/ki.wav",
       "mp3": "assets/audio-preferred/ki.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%8D.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/8/8c/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%8D.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.664,
       "originalSHA1": "cf64a3d9202ae8524df9c1853414fe1e0e566788",
       "originalSHA256": "07adbfd9e083376cfe305a69e18cbc6c7665f8acb21bafe7868929ef75f9a2ef",
@@ -642,7 +642,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -671,11 +671,11 @@
       "key": "ku",
       "original": "assets/audio-preferred-original/ku.wav",
       "mp3": "assets/audio-preferred/ku.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%8F.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/d/d0/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%8F.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.709333,
       "originalSHA1": "5ddf1aef15e3b20aca7779f14a603cc7a18b291d",
       "originalSHA256": "4c1e67ac70339249bcb172f01402374ba5b7f19923a8f813cae664ecb9d56f6f",
@@ -737,7 +737,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -766,11 +766,11 @@
       "key": "ke",
       "original": "assets/audio-preferred-original/ke.wav",
       "mp3": "assets/audio-preferred/ke.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%91.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/a/ae/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%91.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.728,
       "originalSHA1": "468fa1027b7601c88b8e2327021d778527dc8ac2",
       "originalSHA256": "3a5494e4d3fcc8f65745bd0c7fad5da63c7f53f90fcf8662f49cca21a0415487",
@@ -832,7 +832,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -861,11 +861,11 @@
       "key": "ko",
       "original": "assets/audio-preferred-original/ko.wav",
       "mp3": "assets/audio-preferred/ko.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%93.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/8/84/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%93.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.669333,
       "originalSHA1": "1de84c8f3b1f74d1c2ec2d7c07fd908d48e66cec",
       "originalSHA256": "765c912ddd6d291cb1db80e41c0bb0dbd4f78c09ef743be91cf29e7dff50e792",
@@ -927,7 +927,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -956,11 +956,11 @@
       "key": "sa",
       "original": "assets/audio-preferred-original/sa.wav",
       "mp3": "assets/audio-preferred/sa.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%95.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/1/12/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%95.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.672,
       "originalSHA1": "b67dfe611c24ca415f5d336562de7fd2be03bb6e",
       "originalSHA256": "7c3f3f859697f75c055686002c2153c5637a03c111d6ec3f394e678ea384d26c",
@@ -1022,7 +1022,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -1051,11 +1051,11 @@
       "key": "shi",
       "original": "assets/audio-preferred-original/shi.wav",
       "mp3": "assets/audio-preferred/shi.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%97.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/3/32/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%97.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.642667,
       "originalSHA1": "cb2d4cf9dc3eeb8d487486b45ded40ecb7d72b4a",
       "originalSHA256": "c075e07ddd2a0f84e57596392360b87a3a763338220bf94abb846d6a579fa955",
@@ -1117,7 +1117,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -1146,11 +1146,11 @@
       "key": "su",
       "original": "assets/audio-preferred-original/su.wav",
       "mp3": "assets/audio-preferred/su.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%99.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/3/32/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%99.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.72,
       "originalSHA1": "315c9198d6765f2f669ea166414d3655f924eaba",
       "originalSHA256": "f51f0aec7ab311a2db9483805ec92b08caacb487cefe3bd9b7006ebfe00169de",
@@ -1212,7 +1212,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -1241,11 +1241,11 @@
       "key": "se",
       "original": "assets/audio-preferred-original/se.wav",
       "mp3": "assets/audio-preferred/se.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%9B.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/3/3e/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%9B.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.669333,
       "originalSHA1": "f8872a26818032d9b6a6b967d142d7ece8c2388e",
       "originalSHA256": "61dd73279c946f883b52391e8b874b086cd8a9d01f575c4829ae6ff131eb153f",
@@ -1307,7 +1307,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -1336,11 +1336,11 @@
       "key": "so",
       "original": "assets/audio-preferred-original/so.wav",
       "mp3": "assets/audio-preferred/so.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%9D.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/5/58/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%9D.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.690667,
       "originalSHA1": "f6b6e0b5f920ba85e544ccddbab3269727ed0dc6",
       "originalSHA256": "681a37f9bc8f50f936d87ce44cc9ba11c8b48cce7296014d14f3dc658e384ee8",
@@ -1402,7 +1402,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -1431,11 +1431,11 @@
       "key": "ta",
       "original": "assets/audio-preferred-original/ta.wav",
       "mp3": "assets/audio-preferred/ta.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%9F.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/1/13/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%9F.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.677333,
       "originalSHA1": "ff85c4808710e980a9de651d6af55329d9409d71",
       "originalSHA256": "779de549c663380daf77e1c5c6fcd05d6cd3dd89194c533e034e8d194a1fa7ea",
@@ -1497,7 +1497,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -1526,11 +1526,11 @@
       "key": "chi",
       "original": "assets/audio-preferred-original/chi.wav",
       "mp3": "assets/audio-preferred/chi.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%A1.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/e/e9/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%A1.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.68,
       "originalSHA1": "2feaf37f295f0a0acdec51e006ba6560fe158953",
       "originalSHA256": "48e07338cc925bbe93e86fb6aa9b684c9d283a27105d58fd5b79fba47834cec9",
@@ -1592,7 +1592,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -1621,11 +1621,11 @@
       "key": "tsu",
       "original": "assets/audio-preferred-original/tsu.wav",
       "mp3": "assets/audio-preferred/tsu.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%A4.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/8/85/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%A4.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.725333,
       "originalSHA1": "a71b923a26e81cb82a9882d23a3abefa3ad56674",
       "originalSHA256": "bf411572e5019ee5b2e34f4217d5134fec59b5b5d76aa508530760452980482e",
@@ -1687,7 +1687,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -1716,11 +1716,11 @@
       "key": "te",
       "original": "assets/audio-preferred-original/te.wav",
       "mp3": "assets/audio-preferred/te.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%A6.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/1/12/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%A6.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.658667,
       "originalSHA1": "bdbf8e049c07f1b4537c4931de5473bc3f72ab40",
       "originalSHA256": "8ed7319acf9ce1728fac731d3c0555d833f832fbb7c00188a4228b1375684e85",
@@ -1782,7 +1782,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -1811,11 +1811,11 @@
       "key": "to",
       "original": "assets/audio-preferred-original/to.wav",
       "mp3": "assets/audio-preferred/to.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%A8.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/2/2e/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%A8.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.690667,
       "originalSHA1": "86ee6e1c3a3f0123bf5657e2e7dcf1eafb8bf1d1",
       "originalSHA256": "391fecf481ba168185f3b06d629c9a4f825d5981483f337e7c7d04037ac90389",
@@ -1877,7 +1877,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -1906,11 +1906,11 @@
       "key": "na",
       "original": "assets/audio-preferred-original/na.wav",
       "mp3": "assets/audio-preferred/na.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%AA.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/8/8d/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%AA.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.725333,
       "originalSHA1": "4187a41bb9ab1be793497f96798d7cd69f4f2a03",
       "originalSHA256": "2cfa937ae0203e3b16ec20dae2ede30fa3dde261a155fde7b1a49dd7e44e3940",
@@ -1972,7 +1972,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -2001,11 +2001,11 @@
       "key": "ni",
       "original": "assets/audio-preferred-original/ni.wav",
       "mp3": "assets/audio-preferred/ni.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%83%8B.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/7/70/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%83%8B.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.744,
       "originalSHA1": "6558bb546ec2751fd924d0b9b037a9d351890010",
       "originalSHA256": "61eabbab7ff645bd1f29dab723859275d58b66b1965c11debae4b7e377ac1bc5",
@@ -2067,7 +2067,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -2096,11 +2096,11 @@
       "key": "nu",
       "original": "assets/audio-preferred-original/nu.wav",
       "mp3": "assets/audio-preferred/nu.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%AC.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/2/2a/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%AC.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.84,
       "originalSHA1": "c031491a08647b935e5606636f62f6286bca17af",
       "originalSHA256": "7d984b0f1117e5eabb89adcb7929056c701f44e499d18dc7ab89be355b74fada",
@@ -2162,7 +2162,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -2191,11 +2191,11 @@
       "key": "ne",
       "original": "assets/audio-preferred-original/ne.wav",
       "mp3": "assets/audio-preferred/ne.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%AD.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/1/1a/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%AD.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.749333,
       "originalSHA1": "93500f2bf5d499647e801e10298028779e5c137f",
       "originalSHA256": "db1685cbea965748672641ace442fb59815f17156e3c681325cb3f3b24e70fe1",
@@ -2257,7 +2257,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -2286,11 +2286,11 @@
       "key": "no",
       "original": "assets/audio-preferred-original/no.wav",
       "mp3": "assets/audio-preferred/no.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%AE.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/b/be/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%AE.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.738667,
       "originalSHA1": "cf4a59b3f6e1a2dbc55e2f16c327011c03aa5960",
       "originalSHA256": "8ff0c20591177dc0abf9d4f3225beb09825829e8ae4e65540150e5d152118c71",
@@ -2352,7 +2352,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -2381,11 +2381,11 @@
       "key": "ha",
       "original": "assets/audio-preferred-original/ha.wav",
       "mp3": "assets/audio-preferred/ha.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%AF.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/0/06/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%AF.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.661333,
       "originalSHA1": "fe49289e0e6c3cf7873ad12529c037bf23932546",
       "originalSHA256": "98dfd4924e6696817bff3486d3329eec6c31993f4b5b0e13f364f1acc9ebe6e1",
@@ -2447,7 +2447,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -2476,11 +2476,11 @@
       "key": "hi",
       "original": "assets/audio-preferred-original/hi.wav",
       "mp3": "assets/audio-preferred/hi.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%B2.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/0/0a/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%B2.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.685333,
       "originalSHA1": "41b4adb8e42146252c9260e33abd8052a2106f36",
       "originalSHA256": "52a763c3c0f70da2d8eadeecd0edf98aca6eee7f21b3c86b4d0da20b13a8df00",
@@ -2542,7 +2542,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -2571,11 +2571,11 @@
       "key": "fu",
       "original": "assets/audio-preferred-original/fu.wav",
       "mp3": "assets/audio-preferred/fu.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%B5.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/f/fb/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%B5.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.704,
       "originalSHA1": "cc259eb3c9653752327d713f7db04384aa33933d",
       "originalSHA256": "6fd45b563ea40030b2f35add54f335067e1d8b5f2648297a31f903c6558cfa75",
@@ -2637,7 +2637,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -2666,11 +2666,11 @@
       "key": "he",
       "original": "assets/audio-preferred-original/he.wav",
       "mp3": "assets/audio-preferred/he.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%B8.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/5/54/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%B8.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.682667,
       "originalSHA1": "dcdaba9bf764fb9079921a64a2e9f6719b5fde72",
       "originalSHA256": "b09e1be25a44edaf7135611eeee06986d6b16bc3320479e121eb5b663f38d2e9",
@@ -2732,7 +2732,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -2761,11 +2761,11 @@
       "key": "ho",
       "original": "assets/audio-preferred-original/ho.wav",
       "mp3": "assets/audio-preferred/ho.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%BB.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/0/0a/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%BB.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.725333,
       "originalSHA1": "408dba0bc2e4c4e4a9d8ac9937241afb3f666d6b",
       "originalSHA256": "eead46560a6bf3471837a5b59103ff8bda2c0eb69b1cd4bd2e546af930026923",
@@ -2827,7 +2827,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -2856,11 +2856,11 @@
       "key": "ma",
       "original": "assets/audio-preferred-original/ma.wav",
       "mp3": "assets/audio-preferred/ma.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%BE.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/a/a9/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%BE.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.693333,
       "originalSHA1": "2828b1bc89f88542733b9bad8f478d33d0f9b67a",
       "originalSHA256": "50c9da0a268e10b15de44918080fec5d4eaa63ad5eb2b932eed3de9c02620cae",
@@ -2922,7 +2922,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -2951,11 +2951,11 @@
       "key": "mi",
       "original": "assets/audio-preferred-original/mi.wav",
       "mp3": "assets/audio-preferred/mi.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%BF.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/2/28/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%BF.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.725333,
       "originalSHA1": "e41a0a8e1800d749d170e9d5e39264fddc82ab1d",
       "originalSHA256": "5bfcf4d27ada78b58761ae1ef491379d70d6ddf1b5926cab865fb97fbe0b85d9",
@@ -3017,7 +3017,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -3046,11 +3046,11 @@
       "key": "mu",
       "original": "assets/audio-preferred-original/mu.wav",
       "mp3": "assets/audio-preferred/mu.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%82%80.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/c/c1/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%82%80.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.730667,
       "originalSHA1": "073c12516ef7fef709c9dfefbcf23b06cd957a07",
       "originalSHA256": "6970950e1144cf57a56d7efcc77dc0145124dcaad01cfc9e62182c3e0b8d72d4",
@@ -3112,7 +3112,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -3141,11 +3141,11 @@
       "key": "me",
       "original": "assets/audio-preferred-original/me.wav",
       "mp3": "assets/audio-preferred/me.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%82%81.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/0/00/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%82%81.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.749333,
       "originalSHA1": "499252a4bb4d2c3d8c4189dacd52b6f33bd86571",
       "originalSHA256": "cb43e757beb53c653fbc5329c59e518db32e3910a74ab8cc0e356ff904158b09",
@@ -3207,7 +3207,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -3236,11 +3236,11 @@
       "key": "mo",
       "original": "assets/audio-preferred-original/mo.wav",
       "mp3": "assets/audio-preferred/mo.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%82%82.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/4/4e/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%82%82.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.744,
       "originalSHA1": "95f1e48e084628ad2a776dfff86ba8b4a7132cb5",
       "originalSHA256": "a12737246a5084d2b7c241a501b0e8e9394b72ad987279f22045ec4156be4054",
@@ -3302,7 +3302,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -3331,11 +3331,11 @@
       "key": "ya",
       "original": "assets/audio-preferred-original/ya.wav",
       "mp3": "assets/audio-preferred/ya.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%82%84.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/5/59/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%82%84.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.736,
       "originalSHA1": "69d639a10ed71da9d2be88435f3d9f664d01e99e",
       "originalSHA256": "2079a4acb6cd1fdf7aae557381176a61f5e0c074f87620ca6c2bb9131e14e3af",
@@ -3397,7 +3397,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -3426,11 +3426,11 @@
       "key": "yu",
       "original": "assets/audio-preferred-original/yu.wav",
       "mp3": "assets/audio-preferred/yu.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%82%86.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/6/6b/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%82%86.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.781333,
       "originalSHA1": "3781d17c170d207fa07c008f68c6c20c3eee0b3c",
       "originalSHA256": "861f4d8b5f5b41868d602240bee583bbfcfbad86b21528a238f9b965ad747293",
@@ -3492,7 +3492,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -3521,11 +3521,11 @@
       "key": "yo",
       "original": "assets/audio-preferred-original/yo.wav",
       "mp3": "assets/audio-preferred/yo.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%82%88.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/c/c4/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%82%88.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.728,
       "originalSHA1": "1047cb8764fc5e6b820e8574a48039dd3da1d6ce",
       "originalSHA256": "e86717d99bb291a46f88d0604b1507d74c083dfcc69206a039b7c8ca951ddcc0",
@@ -3587,7 +3587,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -3616,11 +3616,11 @@
       "key": "ra",
       "original": "assets/audio-preferred-original/ra.wav",
       "mp3": "assets/audio-preferred/ra.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%82%89.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/b/bc/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%82%89.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.664,
       "originalSHA1": "5b05681dcc0e404012fbe0ecc32718c387740105",
       "originalSHA256": "88b6f00795e0922218de95098554fc9c47a6ccf4c9939f8a10b27a99cad783ec",
@@ -3682,7 +3682,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -3711,11 +3711,11 @@
       "key": "ri",
       "original": "assets/audio-preferred-original/ri.wav",
       "mp3": "assets/audio-preferred/ri.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%82%8A.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/b/b2/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%82%8A.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.752,
       "originalSHA1": "028dd7476ece7471c9611fc148dcf2d7b4ae2bcc",
       "originalSHA256": "aac3223eaa9331c5016682b7500968be86e15833e45dd753ad3481ae4f36a784",
@@ -3777,7 +3777,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -3806,11 +3806,11 @@
       "key": "ru",
       "original": "assets/audio-preferred-original/ru.wav",
       "mp3": "assets/audio-preferred/ru.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%82%8B.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/4/44/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%82%8B.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.696,
       "originalSHA1": "c93783211cb7a614401ccec1716c902eeaeac5d6",
       "originalSHA256": "6b4e39d528800de42a29e7c73b040c6c996f6d1c479397bfe84c99fddbd3242c",
@@ -3872,7 +3872,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -3901,11 +3901,11 @@
       "key": "re",
       "original": "assets/audio-preferred-original/re.wav",
       "mp3": "assets/audio-preferred/re.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%82%8C.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/d/dc/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%82%8C.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.682667,
       "originalSHA1": "b40bd9ccbec7edb72b758b694975b3123482340f",
       "originalSHA256": "d7e17f9289966af3f2d97d9d84a94e8905dc5145e1830d8647b339ed80ecc664",
@@ -3967,7 +3967,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -3996,11 +3996,11 @@
       "key": "ro",
       "original": "assets/audio-preferred-original/ro.wav",
       "mp3": "assets/audio-preferred/ro.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%82%8D.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/3/36/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%82%8D.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.704,
       "originalSHA1": "1941001e4d9825c1dde0937c5d4ff0ec9c52419f",
       "originalSHA256": "1b80cb15cd122799b860514e2f43ce6865e9ebbaa7a39ab5866de17b7ac95d4e",
@@ -4062,7 +4062,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -4091,11 +4091,11 @@
       "key": "wa",
       "original": "assets/audio-preferred-original/wa.wav",
       "mp3": "assets/audio-preferred/wa.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%82%8F.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/0/0c/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%82%8F.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.709333,
       "originalSHA1": "1cacc17caf55f72c828c7cf96e2e978a2f94d025",
       "originalSHA256": "8c6b5fd79fa25b2b32e5a7e36b2ff6a636b0175de649a69a4171614fd61a1dd6",
@@ -4157,7 +4157,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -4186,11 +4186,11 @@
       "key": "wo",
       "original": "assets/audio-preferred-original/wo.wav",
       "mp3": "assets/audio-preferred/wo.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%82%92.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/e/ef/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%82%92.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.698667,
       "originalSHA1": "67230552d86dfe07e640361e7b5858cc8387ff76",
       "originalSHA256": "f7a85b14903b7cc45a34794b9cf6bfffc71b4ff94a0a495116bcf248a358a3b7",
@@ -4252,7 +4252,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -4281,11 +4281,11 @@
       "key": "n",
       "original": "assets/audio-preferred-original/n.wav",
       "mp3": "assets/audio-preferred/n.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%82%93.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/3/30/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%82%93.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.728,
       "originalSHA1": "cf7051235f48d3d106724eac1f5b1627b2206e96",
       "originalSHA256": "89bceadf190a24705525dccaf68100c26da98a8bd6473362f3c69780991d07f8",
@@ -4347,7 +4347,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -4376,11 +4376,11 @@
       "key": "ga",
       "original": "assets/audio-preferred-original/ga.wav",
       "mp3": "assets/audio-preferred/ga.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%8C.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/1/12/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%8C.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.666667,
       "originalSHA1": "2992d6d10554d04aade35e00b65386a060a3ea33",
       "originalSHA256": "217c1b2a619cfa8567dad5dc0afb7ca0dde90feef7647f8254627bc34a297b2d",
@@ -4442,7 +4442,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -4471,11 +4471,11 @@
       "key": "go",
       "original": "assets/audio-preferred-original/go.wav",
       "mp3": "assets/audio-preferred/go.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%94.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/d/d8/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%94.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.685333,
       "originalSHA1": "9a4dca07b3425327a206d59a7cbaa40a7df3b2c6",
       "originalSHA256": "eb90b618274b6974ff8c597423792e745c0494f3567d50ef91c9302b44438017",
@@ -4537,7 +4537,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -4566,11 +4566,11 @@
       "key": "ji",
       "original": "assets/audio-preferred-original/ji.wav",
       "mp3": "assets/audio-preferred/ji.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%98.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/1/12/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%98.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.813333,
       "originalSHA1": "51a720e397aeee9ceb226f132ca5112439ed9f66",
       "originalSHA256": "23e783d44da7113781fc25714428e7ab91f97070e9eb2a5aa0656adfb59c99cd",
@@ -4632,7 +4632,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -4661,11 +4661,11 @@
       "key": "zo",
       "original": "assets/audio-preferred-original/zo.wav",
       "mp3": "assets/audio-preferred/zo.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%9E.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/4/41/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%9E.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.709333,
       "originalSHA1": "955e6c6f3fca5a3e7b075b26a5b68fbfb4f8154e",
       "originalSHA256": "783f32d24fcd87d4276881ee00fd4589f2d1471ca20c183f3eb6ef95c2c16bbf",
@@ -4727,7 +4727,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -4756,11 +4756,11 @@
       "key": "da",
       "original": "assets/audio-preferred-original/da.wav",
       "mp3": "assets/audio-preferred/da.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%A0.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/5/54/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%A0.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.685333,
       "originalSHA1": "41527266b042f36cd3fa6b44b32fb3130f6c6d92",
       "originalSHA256": "0c478a2eeeb7ba3fdf9dc9b1959169a452bc89aa6c0a9a4eb87ffafd1859b7fc",
@@ -4822,7 +4822,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -4851,11 +4851,11 @@
       "key": "de",
       "original": "assets/audio-preferred-original/de.wav",
       "mp3": "assets/audio-preferred/de.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%A7.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/8/87/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%A7.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.674667,
       "originalSHA1": "71b477e5be7d3a9888e9d7eea476f87afd0b576d",
       "originalSHA256": "886d71e2d3e0656f5117ad2d50a1da12b997620e837f095e1c7b09c9f37b7644",
@@ -4917,7 +4917,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -4946,11 +4946,11 @@
       "key": "do",
       "original": "assets/audio-preferred-original/do.wav",
       "mp3": "assets/audio-preferred/do.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%A9.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/a/a0/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%A9.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.698667,
       "originalSHA1": "6d8f50390e898d917b933cf5ec7351b25ee30edd",
       "originalSHA256": "5001fabc35a01b822def5f2d5b377e8744d1427c5d43d92eff97f9678276f083",
@@ -5012,7 +5012,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -5041,11 +5041,11 @@
       "key": "ba",
       "original": "assets/audio-preferred-original/ba.wav",
       "mp3": "assets/audio-preferred/ba.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%B0.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/c/c7/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%B0.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.688,
       "originalSHA1": "4779fe20a099823b2afd3cc41c2f1af8cca8ced1",
       "originalSHA256": "0f7fdc6a9d8eccd3cd13adeef88d2a5bc9b213fe6c940da7dcb60250b2811f29",
@@ -5107,7 +5107,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {
@@ -5136,11 +5136,11 @@
       "key": "bi",
       "original": "assets/audio-preferred-original/bi.wav",
       "mp3": "assets/audio-preferred/bi.mp3",
-      "source": "[local verification]",
-      "download": "[local verification]",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q5287_(jpn)-Fukujinzuke-%E3%81%B3.wav",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/f/f2/LL-Q5287_%28jpn%29-Fukujinzuke-%E3%81%B3.wav",
       "author": "Fukujinzuke",
       "license": "CC BY 4.0",
-      "licenseURL": "[local verification]",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
       "durationSeconds": 0.693333,
       "originalSHA1": "61f4270d0f227b924517d5a0051cd62c0962876a",
       "originalSHA256": "1567f21ed3682627a14fddf820578f5e7fcd1136754f93036120c01820ad4426",
@@ -5202,7 +5202,7 @@
           "hidden": ""
         },
         "LicenseUrl": {
-          "value": "[local verification]",
+          "value": "https://creativecommons.org/licenses/by/4.0",
           "source": "commons-desc-page"
         },
         "Copyrighted": {

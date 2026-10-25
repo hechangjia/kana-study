@@ -6,8 +6,8 @@ let script='hiragana',group='basic',selected=data.characters.find(x=>x.id==='hir
 const groups={basic:'清音',voiced:'浊音 / 半浊音',yoon:'拗音'}, scriptNames={hiragana:'平假名',katakana:'片假名'};
 const audio=$('player');let audioToken=0;
 const preferenceKey='kana-study.preferences.v1';
-let preferences={audio:false,stroke:true,romaji:true,paired:true};
-try{const saved=JSON.parse(localStorage.getItem(preferenceKey)||'{}');for(const k of Object.keys(preferences))if(typeof saved[k]==='boolean')preferences[k]=saved[k];}catch{}
+let preferences={audio:false,stroke:true,romaji:true,paired:true,audioSource:'djt'};
+try{const saved=JSON.parse(localStorage.getItem(preferenceKey)||'{}');for(const k of Object.keys(preferences))if(typeof preferences[k]==='boolean'&&typeof saved[k]==='boolean')preferences[k]=saved[k];if(['djt','previous'].includes(saved.audioSource))preferences.audioSource=saved.audioSource;}catch{}
 for(const [id,key] of [['auto-audio','audio'],['auto-stroke','stroke'],['romaji-toggle','romaji'],['paired-toggle','paired']])$(id).checked=preferences[key];
 function savePreferences(){try{localStorage.setItem(preferenceKey,JSON.stringify(preferences));}catch{}}
 let revealed=false;
@@ -37,13 +37,13 @@ function renderRomaji(){
  document.querySelectorAll('.column-label').forEach(n=>{n.style.visibility=show?'':'hidden';n.setAttribute('aria-hidden',String(!show));});
  $('selected-romaji').hidden=!(show||revealed);$('learning-note').hidden=!(show||revealed);
  $('reveal-romaji').hidden=show;$('reveal-romaji').textContent=revealed?'隐藏读音':'查看读音';$('reveal-romaji').setAttribute('aria-expanded',String(revealed));
- $('group-note').textContent=group==='yoon'?'小「ゃ・ゅ・ょ」与前字合读。此区暂无录音。':show?'按 a、i、u、e、o 排列。点选一个字，查看笔顺与发音。':'点选一个字，查看笔顺与发音。';
+ $('group-note').textContent=group==='yoon'?'小「ゃ・ゅ・ょ」与前字合读，可直接听完整发音。':show?'按 a、i、u、e、o 排列。点选一个字，查看笔顺与发音。':'点选一个字，查看笔顺与发音。';
 }
 $('reveal-romaji').addEventListener('click',()=>{revealed=!revealed;renderRomaji();});
 for(const [id,key] of [['auto-audio','audio'],['auto-stroke','stroke']])$(id).addEventListener('change',()=>{preferences[key]=$(id).checked;savePreferences();if(key==='audio'&&!preferences.audio)stopAudio();if(key==='stroke'&&!preferences.stroke)pause();});
 const all=()=>core.filter(data.characters,script,group);
 const visible=()=>core.filter(data.characters,script,group,$('search').value);
-const currentAudio=()=>core.audioChoices(selected)[0];
+const currentAudio=()=>{const choices=core.audioChoices(selected);return choices.find(x=>x.key===preferences.audioSource)||choices[0];};
 function el(tag,attrs={}){const n=document.createElementNS(NS,tag);for(const[k,v]of Object.entries(attrs))n.setAttribute(k,v);return n;}
 function stopAudio(){audioToken++;audio.pause();audio.removeAttribute('src');audio.load();$('audio-status').textContent=selected.audio?'点击播放，可反复聆听':'未收录，不使用单音拼接';$('audio-play').querySelector('span').textContent='听发音';}
 function renderChart(){
@@ -67,8 +67,8 @@ function renderChart(){
  }
  $('no-results').hidden=rows.length>0;
  $('chart-title').textContent=$('paired-toggle').checked?'平片对照 · '+scriptNames[script]+'笔顺':scriptNames[script]+'表';
- $('group-note').textContent=group==='yoon'?'小「ゃ・ゅ・ょ」与前字合读。此区提供笔顺素材，暂无拗音录音。':'按 a、i、u、e、o 排列。点选一个字，查看笔顺与发音。';
- $('coverage').textContent=group==='yoon'?'33 组拗音 · 暂无录音':group==='basic'?'46 个清音':'25 个浊音 / 半浊音';
+ $('group-note').textContent=group==='yoon'?'小「ゃ・ゅ・ょ」与前字合读，可直接听完整发音。':'按 a、i、u、e、o 排列。点选一个字，查看笔顺与发音。';
+ $('coverage').textContent=group==='yoon'?'33 组拗音':group==='basic'?'46 个清音':'25 个浊音 / 半浊音';
  document.querySelectorAll('[data-script]').forEach(b=>{b.classList.toggle('active',b.dataset.script===script);b.setAttribute('aria-pressed',String(b.dataset.script===script));});
  document.querySelectorAll('[data-group]').forEach(b=>{b.classList.toggle('active',b.dataset.group===group);b.setAttribute('aria-pressed',String(b.dataset.group===group));});
  $('clear-search').hidden=!$('search').value;renderRomaji();
@@ -98,7 +98,7 @@ function pause(){playing=false;cancelAnimationFrame(frame);paint();}
 function tick(now){if(!playing)return;if(last){time+=(now-last)/1000*Number($('speed').value)/.95;}last=now;if(time>=selected.strokes){time=selected.strokes;playing=false;}paint();if(playing)frame=requestAnimationFrame(tick);}
 function play(restart=false){if(restart||time>=selected.strokes)time=0;playing=true;last=0;cancelAnimationFrame(frame);paint();frame=requestAnimationFrame(tick);}
 function noteFor(item){
- if(item.group==='yoon')return '先写大假名，再写右下侧的小假名。两字合读一拍；当前未收录对应录音，不能以两个单音代替。';
+ if(item.group==='yoon')return '先写大假名，再写右下侧的小假名。两字合读一拍；这里播放完整录音，不是把两个单音拼接。';
  const notes={wo:'「を」通常读 o，罗马音也常写作 wo。此处保留 wo 便于区分字形。',di:'「ぢ / ヂ」通常与「じ / ジ」同音。di 是区分拼写的标记，不要读成英语 di。',du:'「づ / ヅ」通常与「ず / ズ」同音。du 是区分拼写的标记，不要读成英语 du。',ha:'本音为 ha；「は」作提示主题的助词时读 wa。',he:'本音为 he；「へ」作方向助词时读 e。',n:'「ん」单独占一拍；实际发音会随相邻音变化。先听示范，再结合单词练习。',fu:'罗马音 fu。请听录音模仿，不要直接套用英语的 f 音。',shi:'罗马音 shi。注意与「し / シ」对应，而不是英语单词 she。',chi:'罗马音 chi，日文输入时也常用 ti。',tsu:'罗马音 tsu。与小「っ / ッ」不同，当前字是正常大小的「つ / ツ」。'};
  return notes[item.romaji]||'先观察起笔和行笔方向，再跟着笔画编号慢慢练习。点“下一笔”可分步查看。';
 }
@@ -108,7 +108,7 @@ function select(item,animate=true,interactive=true){
  $('selected-char').textContent=item.char;$('selected-romaji').textContent=item.displayRomaji;$('selected-kind').textContent=`${scriptNames[script]} / ${groups[group]}`;
  const opposite=data.characters.find(x=>x.hira===item.hira&&x.script!==script);$('counterpart').textContent=opposite.char;$('counterpart').setAttribute('aria-label',`切换到${opposite.char}`);$('counterpart-label').textContent=scriptNames[opposite.script];
  renderAudio();$('learning-note').textContent=noteFor(item);window.KanaPractice.select(item);
- for(const[type,key]of [['png','png'],['gif','gif'],['svg','svg'],['audio','audio']]){const link=$('download-'+type);link.hidden=!item[key];if(item[key]){link.href=item[key];link.removeAttribute('download');link.target='_blank';link.rel='noopener';}else link.removeAttribute('href');}
+ for(const[type,key]of [['png','png'],['gif','gif'],['svg','svg'],['audio','audio']]){const link=$('download-'+type);link.hidden=!item[key];if(item[key]){link.href=key==='audio'?currentAudio().src:item[key];link.removeAttribute('download');link.target='_blank';link.rel='noopener';}else link.removeAttribute('href');}
  const list=all();$('letter-index').textContent=`${list.indexOf(item)+1} / ${list.length}`;
  drawBoard();time=item.strokes;paint();if(interactive)openPractice();
  if(animate&&preferences.stroke&&!window.matchMedia('(prefers-reduced-motion: reduce)').matches)play(true);
@@ -120,12 +120,16 @@ $('timeline').oninput=e=>{const value=Number(e.target.value);pause();time=value;
 $('numbers-toggle').addEventListener('change',()=>{$('draw-numbers').style.display=$('numbers-toggle').checked?'':'none';});$('romaji-toggle').addEventListener('change',()=>{preferences.romaji=$('romaji-toggle').checked;revealed=false;savePreferences();renderChart();});
 function renderAudio(){
  const current=currentAudio();
+ const selector=$('audio-source'),previous=selector.querySelector('[value="previous"]');
+ previous.disabled=!selected.audioAlternative;previous.textContent=selected.audioAlternative?'之前录音 · '+selected.audioAlternativeProvider:'之前录音（此假名未收录）';selector.value=current?.key||'djt';
+ $('audio-fallback').hidden=!(preferences.audioSource==='previous'&&!selected.audioAlternative);
  $('audio-play').disabled=!current;$('sheet-audio').disabled=!current;$('sheet-audio').textContent=current?'听发音':'暂无录音';
  $('audio-caption').textContent=current?'发音':'暂无录音';
- $('audio-credit').textContent=current?selected.audioCredit:'未使用单音拼接或语音合成。';
+ $('audio-credit').textContent=current?current.credit:'未使用单音拼接或语音合成。';
  $('audio-status').textContent=current?'点击播放，可反复聆听':'未收录，不使用单音拼接';
  const link=$('download-audio');link.hidden=!current;if(current)link.href=current.src;else link.removeAttribute('href');
 }
+$('audio-source').addEventListener('change',()=>{preferences.audioSource=$('audio-source').value;savePreferences();stopAudio();renderAudio();});
 $('paired-toggle').addEventListener('change',()=>{preferences.paired=$('paired-toggle').checked;savePreferences();renderChart();});
 async function playAudio(){
  const current=currentAudio();if(!current)return;const token=++audioToken;audio.pause();audio.src=current.src;audio.currentTime=0;

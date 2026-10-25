@@ -1,960 +1,902 @@
 {
-  "date": "2026-10-25",
-  "version": "2.2",
+  "date": "2026-10-26",
+  "version": "2.3",
   "passed": true,
   "coverage": {
-    "entries": 208,
-    "audio": 71,
-    "fukujinzuke": 55,
-    "tofugu": 16,
-    "yoonAudio": 0
+    "characters": 208,
+    "defaultAudioFiles": 101,
+    "defaultSource": "DJT Kana",
+    "yoonGroups": 33,
+    "previousAudioFiles": 71,
+    "totalPlayableVersions": 172
   },
   "browser": {
-    "browser": "Chrome headless on Windows",
-    "mode": "[local verification]",
-    "cases": [
-      "play/pause/restart",
-      "step/progress slider",
-      "stroke numbers toggle",
-      "romaji toggle",
-      "search/empty/clear",
-      "script and group switching",
-      "counterpart",
-      "keyboard navigation",
-      "local PNG opens in separate tab",
-      "desktop screenshot",
-      "390px and 320px no overflow",
-      "source page mobile layout",
-      "single recording; no version selector",
-      "71 selected recording mappings",
-      "paired glyph toggle",
-      "ti alias search",
-      "handwriting draw/undo/clear/guide/reset"
-    ],
-    "charactersSelected": 208,
+    "passed": true,
+    "charactersChecked": 208,
     "audioPlayed": [
       {
-        "key": "a",
-        "duration": 0.685333,
-        "advanced": true,
-        "error": null
+        "file": "assets/audio-djt/a.mp3",
+        "duration": 4.032,
+        "advanced": true
       },
       {
-        "key": "i",
+        "file": "assets/audio-djt/ba.mp3",
+        "duration": 1.630667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/be.mp3",
+        "duration": 1.594667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/bi.mp3",
+        "duration": 1.450667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/bo.mp3",
+        "duration": 1.414667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/bu.mp3",
+        "duration": 1.40771,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/bya.mp3",
+        "duration": 1.954667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/byo.mp3",
+        "duration": 1.810667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/byu.mp3",
+        "duration": 1.882667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/cha.mp3",
+        "duration": 2.242667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/chi.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/cho.mp3",
+        "duration": 2.170667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/chu.mp3",
+        "duration": 2.206667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/da.mp3",
+        "duration": 1.702667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/de.mp3",
+        "duration": 1.558667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/do.mp3",
+        "duration": 1.630667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/e.mp3",
+        "duration": 4.032,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/fu.mp3",
+        "duration": 4.032,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/ga.mp3",
+        "duration": 1.234667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/ge.mp3",
+        "duration": 1.774667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/gi.mp3",
+        "duration": 1.342667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/go.mp3",
+        "duration": 1.810667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/gu.mp3",
+        "duration": 1.378667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/gya.mp3",
+        "duration": 2.062667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/gyo.mp3",
+        "duration": 1.882667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/gyu.mp3",
+        "duration": 1.810667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/ha.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/he.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/hi.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/ho.mp3",
+        "duration": 4.032,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/hya.mp3",
+        "duration": 2.134667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/hyo.mp3",
+        "duration": 2.206667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/hyu.mp3",
+        "duration": 2.026667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/i.mp3",
+        "duration": 3.996,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/ja.mp3",
+        "duration": 1.954667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/ji.mp3",
+        "duration": 1.666667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/jo.mp3",
+        "duration": 1.954667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/ju.mp3",
+        "duration": 1.918667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/ka.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/ke.mp3",
+        "duration": 4.104,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/ki.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/ko.mp3",
+        "duration": 4.032,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/ku.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/kya.mp3",
+        "duration": 1.486667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/kyo.mp3",
+        "duration": 1.558667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/kyu.mp3",
+        "duration": 1.414667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/ma.mp3",
+        "duration": 4.032,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/me.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/mi.mp3",
+        "duration": 4.104,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/mo.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/mu.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/mya.mp3",
+        "duration": 2.206667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/myo.mp3",
+        "duration": 2.170667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/myu.mp3",
+        "duration": 2.206667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/n.mp3",
+        "duration": 4.032,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/na.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/ne.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/ni.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/no.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/nu.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/nya.mp3",
+        "duration": 2.206667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/nyo.mp3",
+        "duration": 2.098667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/nyu.mp3",
+        "duration": 2.134667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/o.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/pa.mp3",
+        "duration": 1.630667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/pe.mp3",
+        "duration": 1.378667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/pi.mp3",
+        "duration": 1.378667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/po.mp3",
+        "duration": 1.486667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/pu.mp3",
+        "duration": 1.378667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/pya.mp3",
+        "duration": 1.918667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/pyo.mp3",
+        "duration": 1.918667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/pyu.mp3",
+        "duration": 1.810667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/ra.mp3",
+        "duration": 4.104,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/re.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/ri.mp3",
+        "duration": 4.14,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/ro.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/ru.mp3",
+        "duration": 4.032,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/rya.mp3",
+        "duration": 2.062667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/ryo.mp3",
+        "duration": 1.990667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/ryu.mp3",
+        "duration": 2.134667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/sa.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/se.mp3",
+        "duration": 4.032,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/sha.mp3",
+        "duration": 1.738667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/shi.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/sho.mp3",
+        "duration": 1.738667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/shu.mp3",
+        "duration": 1.774667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/so.mp3",
+        "duration": 4.104,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/su.mp3",
+        "duration": 4.104,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/ta.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/te.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/to.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/tsu.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/u.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/wa.mp3",
+        "duration": 4.032,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/ya.mp3",
+        "duration": 4.14,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/yo.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/yu.mp3",
+        "duration": 4.068,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/za.mp3",
+        "duration": 1.558667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/ze.mp3",
+        "duration": 1.774667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/zo.mp3",
+        "duration": 1.810667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-djt/zu.mp3",
+        "duration": 1.702667,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-preferred/a.mp3",
+        "duration": 0.685333,
+        "advanced": true
+      },
+      {
+        "file": "assets/audio-preferred/i.mp3",
         "duration": 0.717333,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "u",
+        "file": "assets/audio-preferred/u.mp3",
         "duration": 0.725333,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "e",
+        "file": "assets/audio-preferred/e.mp3",
         "duration": 0.741333,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "o",
+        "file": "assets/audio-preferred/o.mp3",
         "duration": 0.698667,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "ka",
+        "file": "assets/audio-preferred/ka.mp3",
         "duration": 0.658667,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "ki",
+        "file": "assets/audio-preferred/ki.mp3",
         "duration": 0.664,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "ku",
+        "file": "assets/audio-preferred/ku.mp3",
         "duration": 0.709333,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "ke",
+        "file": "assets/audio-preferred/ke.mp3",
         "duration": 0.728,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "ko",
+        "file": "assets/audio-preferred/ko.mp3",
         "duration": 0.669333,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "sa",
+        "file": "assets/audio-preferred/sa.mp3",
         "duration": 0.672,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "shi",
+        "file": "assets/audio-preferred/shi.mp3",
         "duration": 0.642667,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "su",
+        "file": "assets/audio-preferred/su.mp3",
         "duration": 0.72,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "se",
+        "file": "assets/audio-preferred/se.mp3",
         "duration": 0.669333,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "so",
+        "file": "assets/audio-preferred/so.mp3",
         "duration": 0.690667,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "ta",
+        "file": "assets/audio-preferred/ta.mp3",
         "duration": 0.677333,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "chi",
+        "file": "assets/audio-preferred/chi.mp3",
         "duration": 0.68,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "tsu",
+        "file": "assets/audio-preferred/tsu.mp3",
         "duration": 0.725333,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "te",
+        "file": "assets/audio-preferred/te.mp3",
         "duration": 0.658667,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "to",
+        "file": "assets/audio-preferred/to.mp3",
         "duration": 0.690667,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "na",
+        "file": "assets/audio-preferred/na.mp3",
         "duration": 0.725333,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "ni",
+        "file": "assets/audio-preferred/ni.mp3",
         "duration": 0.744,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "nu",
+        "file": "assets/audio-preferred/nu.mp3",
         "duration": 0.84,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "ne",
+        "file": "assets/audio-preferred/ne.mp3",
         "duration": 0.749333,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "no",
+        "file": "assets/audio-preferred/no.mp3",
         "duration": 0.738667,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "ha",
+        "file": "assets/audio-preferred/ha.mp3",
         "duration": 0.661333,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "hi",
+        "file": "assets/audio-preferred/hi.mp3",
         "duration": 0.685333,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "fu",
+        "file": "assets/audio-preferred/fu.mp3",
         "duration": 0.704,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "he",
+        "file": "assets/audio-preferred/he.mp3",
         "duration": 0.682667,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "ho",
+        "file": "assets/audio-preferred/ho.mp3",
         "duration": 0.725333,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "ma",
+        "file": "assets/audio-preferred/ma.mp3",
         "duration": 0.693333,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "mi",
+        "file": "assets/audio-preferred/mi.mp3",
         "duration": 0.725333,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "mu",
+        "file": "assets/audio-preferred/mu.mp3",
         "duration": 0.730667,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "me",
+        "file": "assets/audio-preferred/me.mp3",
         "duration": 0.749333,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "mo",
+        "file": "assets/audio-preferred/mo.mp3",
         "duration": 0.744,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "ya",
+        "file": "assets/audio-preferred/ya.mp3",
         "duration": 0.736,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "yu",
+        "file": "assets/audio-preferred/yu.mp3",
         "duration": 0.781333,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "yo",
+        "file": "assets/audio-preferred/yo.mp3",
         "duration": 0.728,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "ra",
+        "file": "assets/audio-preferred/ra.mp3",
         "duration": 0.664,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "ri",
+        "file": "assets/audio-preferred/ri.mp3",
         "duration": 0.752,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "ru",
+        "file": "assets/audio-preferred/ru.mp3",
         "duration": 0.696,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "re",
+        "file": "assets/audio-preferred/re.mp3",
         "duration": 0.682667,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "ro",
+        "file": "assets/audio-preferred/ro.mp3",
         "duration": 0.704,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "wa",
+        "file": "assets/audio-preferred/wa.mp3",
         "duration": 0.709333,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "wo",
+        "file": "assets/audio-preferred/wo.mp3",
         "duration": 0.698667,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "n",
+        "file": "assets/audio-preferred/n.mp3",
         "duration": 0.728,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "ga",
+        "file": "assets/audio-preferred/ga.mp3",
         "duration": 0.666667,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "gi",
+        "file": "assets/audio-tofugu/gi.mp3",
         "duration": 0.586735,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "gu",
+        "file": "assets/audio-tofugu/gu.mp3",
         "duration": 0.586735,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "ge",
+        "file": "assets/audio-tofugu/ge.mp3",
         "duration": 0.586735,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "go",
+        "file": "assets/audio-preferred/go.mp3",
         "duration": 0.685333,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "za",
+        "file": "assets/audio-tofugu/za.mp3",
         "duration": 0.586735,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "ji",
+        "file": "assets/audio-preferred/ji.mp3",
         "duration": 0.813333,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "zu",
+        "file": "assets/audio-tofugu/zu.mp3",
         "duration": 0.586735,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "ze",
+        "file": "assets/audio-tofugu/ze.mp3",
         "duration": 0.586735,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "zo",
+        "file": "assets/audio-preferred/zo.mp3",
         "duration": 0.709333,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "da",
+        "file": "assets/audio-preferred/da.mp3",
         "duration": 0.685333,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "di",
+        "file": "assets/audio-tofugu/di.mp3",
         "duration": 0.586735,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "du",
+        "file": "assets/audio-tofugu/du.mp3",
         "duration": 0.586735,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "de",
+        "file": "assets/audio-preferred/de.mp3",
         "duration": 0.674667,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "do",
+        "file": "assets/audio-preferred/do.mp3",
         "duration": 0.698667,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "ba",
+        "file": "assets/audio-preferred/ba.mp3",
         "duration": 0.688,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "bi",
+        "file": "assets/audio-preferred/bi.mp3",
         "duration": 0.693333,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "bu",
+        "file": "assets/audio-tofugu/bu.mp3",
         "duration": 0.586735,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "be",
+        "file": "assets/audio-tofugu/be.mp3",
         "duration": 0.586735,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "bo",
+        "file": "assets/audio-tofugu/bo.mp3",
         "duration": 0.586735,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "pa",
+        "file": "assets/audio-tofugu/pa.mp3",
         "duration": 0.586735,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "pi",
+        "file": "assets/audio-tofugu/pi.mp3",
         "duration": 0.586735,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "pu",
+        "file": "assets/audio-tofugu/pu.mp3",
         "duration": 0.586735,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "pe",
+        "file": "assets/audio-tofugu/pe.mp3",
         "duration": 0.586735,
-        "advanced": true,
-        "error": null
+        "advanced": true
       },
       {
-        "key": "po",
+        "file": "assets/audio-tofugu/po.mp3",
         "duration": 0.586735,
-        "advanced": true,
-        "error": null
+        "advanced": true
       }
     ],
-    "consoleErrors": [],
-    "networkRequests": [],
-    "passed": true
+    "checks": [
+      "DJT default",
+      "previous source and download consistency",
+      "source remembered across reload",
+      "yoon explicit temporary fallback preserving preference",
+      "autoplay uses selected source",
+      "no audio on page load",
+      "mobile sticky player",
+      "320px layout",
+      "sources page"
+    ],
+    "errors": [],
+    "externalRequests": []
   },
-  "cleanup": {
-    "removedAudioFiles": 142,
-    "removedVersionSelector": true,
-    "additionalBackupCreated": false
+  "preservation": {
+    "previousAudioAndVisualAssetsUnchanged": true,
+    "downloadedDJTFilesUnchanged": true,
+    "processing": "Original MP3 copied without conversion, normalization or trimming."
   },
   "limits": [
-    "No physical handset or Firefox test.",
-    "Programmatic playback verification only.",
-    "Tofugu publication authorized by site owner; no general redistribution license granted."
-  ],
-  "publication": {
-    "preparedFor": "GitHub Pages",
-    "prePublishBrowserPassed": true,
-    "charactersChecked": 208,
-    "audioFilesPlayed": 71,
-    "personalLocalPathsExcluded": true,
-    "tofuguPublicationAuthorization": "Site owner confirmed on 2026-10-25; no general sublicense granted."
-  },
-  "interfaceUpdate": {
-    "date": "2026-10-25",
-    "checks": {
-      "passed": true,
-      "checks": [
-        "mobile sheet open/close/escape/focus/scroll",
-        "thumb actions",
-        "sheet handwriting",
-        "desktop/mobile resize",
-        "320px overflow",
-        "audio and stroke toggles",
-        "preferences survive reload",
-        "no playback on load",
-        "roman hide/reveal/reset and accessible label",
-        "storage denied fallback",
-        "reduced-motion respects explicit playback"
-      ],
-      "errors": []
-    },
-    "regression": {
-      "browser": "Chrome headless on Windows",
-      "mode": "file:// with network offline",
-      "cases": [
-        "play/pause/restart",
-        "step/progress slider",
-        "stroke numbers toggle",
-        "romaji toggle",
-        "search/empty/clear",
-        "script and group switching",
-        "counterpart",
-        "keyboard navigation",
-        "local PNG opens in separate tab",
-        "desktop screenshot",
-        "390px and 320px no overflow",
-        "source page mobile layout",
-        "single recording; no version selector",
-        "71 selected recording mappings",
-        "paired glyph toggle",
-        "ti alias search",
-        "handwriting draw/undo/clear/guide/reset"
-      ],
-      "charactersSelected": 208,
-      "audioPlayed": [
-        {
-          "key": "a",
-          "duration": 0.685333,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "i",
-          "duration": 0.717333,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "u",
-          "duration": 0.725333,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "e",
-          "duration": 0.741333,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "o",
-          "duration": 0.698667,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "ka",
-          "duration": 0.658667,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "ki",
-          "duration": 0.664,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "ku",
-          "duration": 0.709333,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "ke",
-          "duration": 0.728,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "ko",
-          "duration": 0.669333,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "sa",
-          "duration": 0.672,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "shi",
-          "duration": 0.642667,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "su",
-          "duration": 0.72,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "se",
-          "duration": 0.669333,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "so",
-          "duration": 0.690667,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "ta",
-          "duration": 0.677333,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "chi",
-          "duration": 0.68,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "tsu",
-          "duration": 0.725333,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "te",
-          "duration": 0.658667,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "to",
-          "duration": 0.690667,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "na",
-          "duration": 0.725333,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "ni",
-          "duration": 0.744,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "nu",
-          "duration": 0.84,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "ne",
-          "duration": 0.749333,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "no",
-          "duration": 0.738667,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "ha",
-          "duration": 0.661333,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "hi",
-          "duration": 0.685333,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "fu",
-          "duration": 0.704,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "he",
-          "duration": 0.682667,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "ho",
-          "duration": 0.725333,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "ma",
-          "duration": 0.693333,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "mi",
-          "duration": 0.725333,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "mu",
-          "duration": 0.730667,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "me",
-          "duration": 0.749333,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "mo",
-          "duration": 0.744,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "ya",
-          "duration": 0.736,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "yu",
-          "duration": 0.781333,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "yo",
-          "duration": 0.728,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "ra",
-          "duration": 0.664,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "ri",
-          "duration": 0.752,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "ru",
-          "duration": 0.696,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "re",
-          "duration": 0.682667,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "ro",
-          "duration": 0.704,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "wa",
-          "duration": 0.709333,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "wo",
-          "duration": 0.698667,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "n",
-          "duration": 0.728,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "ga",
-          "duration": 0.666667,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "gi",
-          "duration": 0.586735,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "gu",
-          "duration": 0.586735,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "ge",
-          "duration": 0.586735,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "go",
-          "duration": 0.685333,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "za",
-          "duration": 0.586735,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "ji",
-          "duration": 0.813333,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "zu",
-          "duration": 0.586735,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "ze",
-          "duration": 0.586735,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "zo",
-          "duration": 0.709333,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "da",
-          "duration": 0.685333,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "di",
-          "duration": 0.586735,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "du",
-          "duration": 0.586735,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "de",
-          "duration": 0.674667,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "do",
-          "duration": 0.698667,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "ba",
-          "duration": 0.688,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "bi",
-          "duration": 0.693333,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "bu",
-          "duration": 0.586735,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "be",
-          "duration": 0.586735,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "bo",
-          "duration": 0.586735,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "pa",
-          "duration": 0.586735,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "pi",
-          "duration": 0.586735,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "pu",
-          "duration": 0.586735,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "pe",
-          "duration": 0.586735,
-          "advanced": true,
-          "error": null
-        },
-        {
-          "key": "po",
-          "duration": 0.586735,
-          "advanced": true,
-          "error": null
-        }
-      ],
-      "consoleErrors": [],
-      "networkRequests": [],
-      "passed": true
-    }
-  }
+    "Programmatic playback checks, not a full human listening review.",
+    "Mobile viewport simulation; no physical handset or Firefox verification.",
+    "DJT recording author and redistribution license not verified; not included under other asset licenses."
+  ]
 }
