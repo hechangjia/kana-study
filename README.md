@@ -38,3 +38,15 @@ verification.json 记录发布前的程序化检查，不代表全部录音经�
 - 浏览器测试验证自动答题、IME、统计、四组/按行选择、录音切换、空范围、存储失败、手机布局和完整208题覆盖。
 
 界面回归：`node --test tests/ui-refine.test.cjs` 和 `node tests/ui-refine-browser.cjs`；浏览器环境配置同上，支持 `STUDY_URL` 和 `UI_TEST_OUTPUT` 指定目标及报告目录。
+
+
+## 发音、听音辨认与专注模式
+练习页顶部可切换“看字认读 / 听音辨认”，打开或关闭“答对后播放发音”，以及进入专注。
+- 答对后播放默认为开启；完整播放结束后换题。失败时可重试或直接下一题；关闭开关恢复快速连练。
+- 听音辨认先点击“播放本题”，后续题目自动播放。页面刷新不会自动发声；首次听题后再输入罗马音。听题、重播不算提示；查看答案、看笔顺或错误订正仍计入辅助。
+- 听音题按读音去重，完整208项字库对应101种读音。o/wo、ji/di/zi、zu/du等同音写法合并接受；字形认读保持原来的判定规则。
+- 专注模式收起页头、统计、范围和来源设置，保留模式、播放开关、答题与必要按钮。可随时点击“退出专注”或按 Escape。模式、发音开关和专注状态只保存在当前浏览器。
+- 切换练习模式或范围会重置本轮统计，并停止之前的播放。
+
+新增验证：`node --test tests/drill-audio.test.cjs tests/practice-modes.test.cjs`、`node tests/practice-modes-browser.cjs`、`node tests/practice-modes-real.cjs`。
+浏览器测试沿用 PLAYWRIGHT_MODULE、CHROME_PATH、DRILL_URL，可用 MODE_TEST_OUTPUT 设置证据目录。前者模拟异常与状态转换，后者实际播放DJT与之前录音并检查 ended 时机。

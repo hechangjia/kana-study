@@ -3,7 +3,7 @@ const assert=require('node:assert/strict'),path=require('node:path');const {path
 const {chromium}=require(process.env.PLAYWRIGHT_MODULE || 'playwright');
 (async()=>{const b=await chromium.launch({...(process.env.CHROME_PATH ? {executablePath:process.env.CHROME_PATH} : {}),headless:true});try{
  const p=await b.newPage(),errors=[];p.on('pageerror',e=>errors.push(e.message));const url=process.env.DRILL_URL||pathToFileURL(path.resolve(__dirname,'../drill.html')).href;
- await p.goto(url);await p.locator('#range-link').click();await p.locator('#clear-all').click();
+ await p.goto(url);await p.locator('#after-correct-audio').uncheck();await p.locator('#range-link').click();await p.locator('#clear-all').click();
  for(const[group,count]of [['hiragana-single',71],['hiragana-yoon',33],['katakana-single',71],['katakana-yoon',33]]){
   await p.locator(`[data-group="${group}"][data-action="all"]`).click();assert.equal(await p.locator(`#${group}-count`).innerText(),`${count} / ${count}`);
   assert.match(await p.locator('#pool-count').innerText(),new RegExp(String(count)));await p.locator(`[data-group="${group}"][data-action="none"]`).click();assert.ok(await p.locator('#empty-state').isVisible());

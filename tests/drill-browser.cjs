@@ -10,7 +10,7 @@ const url=process.env.DRILL_URL||pathToFileURL(path.resolve(__dirname,'../drill.
  try{
   const page=await browser.newPage({viewport:{width:1280,height:950}}),errors=[],requests=[];
   page.on('pageerror',e=>errors.push(e.message));page.on('response',r=>{if(r.status()>=400)requests.push([r.status(),r.url()]);});
-  await page.goto(url);await page.locator('#question').waitFor();
+  await page.goto(url);await page.locator('#question').waitFor();await page.locator('#after-correct-audio').uncheck();
   assert.match(await page.locator('#pool-count').innerText(),/71/);
   assert.equal(await page.locator('#drill-player').getAttribute('src'),null);
   const answer=page.locator('#answer');

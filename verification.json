@@ -971,5 +971,101 @@
     "limits": [
       "Chromium desktop and simulated mobile viewports; no physical handset testing."
     ]
+  },
+  "practiceModes": {
+    "date": "2026-10-26",
+    "passed": true,
+    "browser": {
+      "passed": true,
+      "listeningCoverage": 101,
+      "checks": [
+        "default on; no startup autoplay",
+        "wait for ended",
+        "optional quick advance",
+        "no duplicate score",
+        "error retry",
+        "mode/source/range cancellation",
+        "hidden listening glyph",
+        "listening no assistance penalty",
+        "homophone o/wo",
+        "listening reload waits for gesture",
+        "reveal assisted",
+        "persistent focus + Escape",
+        "320/390px focus"
+      ],
+      "errors": []
+    },
+    "realAudio": {
+      "passed": true,
+      "events": [
+        {
+          "type": "playing",
+          "src": "assets/audio-djt/ku.mp3",
+          "currentTime": 0,
+          "duration": 4.068,
+          "id": "hiragana-ku"
+        },
+        {
+          "type": "ended",
+          "src": "assets/audio-djt/ku.mp3",
+          "currentTime": 4.068,
+          "duration": 4.068,
+          "id": "hiragana-ku"
+        },
+        {
+          "type": "playing",
+          "src": "assets/audio-preferred/hi.mp3",
+          "currentTime": 0,
+          "duration": 0.685333,
+          "id": "hiragana-hi"
+        },
+        {
+          "type": "ended",
+          "src": "assets/audio-preferred/hi.mp3",
+          "currentTime": 0.685333,
+          "duration": 0.685333,
+          "id": "hiragana-hi"
+        },
+        {
+          "type": "playing",
+          "src": "assets/audio-tofugu/pi.mp3",
+          "currentTime": 0,
+          "duration": 0.586735,
+          "id": "hiragana-pi"
+        },
+        {
+          "type": "ended",
+          "src": "assets/audio-tofugu/pi.mp3",
+          "currentTime": 0.586735,
+          "duration": 0.586735,
+          "id": "hiragana-pi"
+        },
+        {
+          "type": "playing",
+          "src": "assets/audio-tofugu/po.mp3",
+          "currentTime": 0,
+          "duration": 0.586735,
+          "id": "hiragana-po"
+        }
+      ],
+      "errors": []
+    },
+    "coverage": {
+      "readQuestions": 208,
+      "listeningReadings": 101,
+      "originalAudioFiles": 172,
+      "unchangedAssets": 999
+    },
+    "audioLifecycle": [
+      "ended before advance",
+      "play rejection and decode error recovery",
+      "progress-aware stall timeout",
+      "cancellation on source/mode/range changes"
+    ],
+    "limits": [
+      "Chromium desktop and 320/390px viewport simulation, not physical handset testing.",
+      "Failure and race tests use controlled media simulation; separate checks play real audio.",
+      "Listening input is romanization, not a multiple-choice kana picker."
+    ]
   }
 }

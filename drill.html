@@ -5,9 +5,9 @@
   <meta name="color-scheme" content="light"><meta name="description" content="看假名，输入罗马音。自由选择平假名、片假名和拗音范围，搭配发音与笔顺练习。">
   <title>认读练习 · 五十音手帖</title>
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="styles.css?v=20261026-ui2"><link rel="stylesheet" href="drill.css?v=20261026-drill1">
+  <link rel="stylesheet" href="styles.css?v=20261026-ui2"><link rel="stylesheet" href="drill.css?v=20261026-modes1">
   <script src="data.js?v=20261025-djt1" defer></script><script src="core.js?v=20261026-ui2" defer></script>
-  <script src="drill-core.js?v=20261026-ui2" defer></script><script src="drill.js?v=20261026-drill1" defer></script>
+  <script src="drill-core.js?v=20261026-ui2" defer></script><script src="drill-audio.js?v=20261026-modes1" defer></script><script src="drill.js?v=20261026-modes1" defer></script>
 </head>
 <body class="drill-page">
 <a class="skip" href="#answer">跳到答题</a>
@@ -17,14 +17,21 @@
 </header>
 <main class="drill-main">
   <div class="drill-heading"><div><h1>认读练习</h1><p>看假名，输入罗马音。熟悉一组，再多练一组。</p></div><a href="#range-options" id="range-link">调整练习范围</a></div>
+  <div class="practice-toolbar" aria-label="练习设置">
+    <div class="mode-switch" role="group" aria-label="练习模式"><button type="button" data-mode="read" aria-pressed="true">看字认读</button><button type="button" data-mode="listen" aria-pressed="false">听音辨认</button></div>
+    <button id="focus-toggle" type="button" aria-pressed="false">进入专注</button>
+    <label class="correct-audio-toggle"><input id="after-correct-audio" type="checkbox" checked> 答对后播放发音</label>
+  </div>
+  <p id="mode-note" class="mode-note">答对后听完整发音再换题；关闭开关可快速连练。</p>
   <section class="exercise" aria-label="假名认读">
     <div class="exercise-top"><span id="pool-count"></span><button type="button" id="reset-stats" class="text-button">重置本轮</button></div>
     <dl class="drill-stats" aria-label="本轮统计">
       <div><dt>已完成</dt><dd id="stat-total">0</dd></div><div><dt>独立答对</dt><dd id="stat-correct">0</dd></div><div><dt>订正 / 提示</dt><dd id="stat-helped">0</dd></div><div><dt>连续答对</dt><dd id="stat-streak">0</dd></div>
     </dl>
-    <p class="stats-note">仅统计本轮；听音、看笔顺、查看答案或答错后订正，不计入独立答对。<span id="skip-count">跳过 0 题</span></p>
+    <p class="stats-note"><span id="stats-help">仅统计本轮；听音、看笔顺、查看答案或答错后订正，不计入独立答对。</span><span id="skip-count">跳过 0 题</span></p>
     <div id="question-area">
       <div id="question" class="question" lang="ja" aria-live="polite" aria-atomic="true"></div>
+      <div id="listening-prompt" class="listening-prompt" hidden><button id="listen-question" type="button">播放本题</button><p>听发音，输入罗马音</p></div>
       <form id="answer-form" autocomplete="off">
         <label for="answer">输入罗马音</label>
         <div class="answer-row"><input id="answer" name="answer" type="text" inputmode="text" autocapitalize="none" autocorrect="off" spellcheck="false" maxlength="24" aria-describedby="answer-help feedback"><button type="submit" class="primary-button" id="check-answer">检查</button></div>
@@ -32,6 +39,7 @@
       </form>
       <p id="feedback" class="feedback" role="status" aria-live="polite" aria-atomic="true"></p>
       <div class="question-actions"><button id="reveal" type="button">查看答案</button><button id="listen" type="button">听发音</button><button id="stroke" type="button" aria-expanded="false" aria-controls="stroke-panel">看笔顺</button><button id="skip-question" type="button">跳过</button></div>
+      <div class="playback-recovery"><button id="retry-audio" type="button" hidden>重试发音</button><button id="advance-question" type="button" hidden>下一题</button></div>
       <p id="answer-hint" class="answer-hint" hidden></p>
       <div id="stroke-panel" hidden><img id="stroke-image" alt="当前假名的笔顺动画" width="240" height="240"><p>可回到五十音表，逐笔播放或练习书写。</p></div>
       <details class="drill-audio"><summary>发音设置与来源</summary><label for="drill-audio-source">发音方案</label> <select id="drill-audio-source"><option value="djt">DJT Kana（默认）</option><option value="previous">之前录音</option></select><p id="drill-audio-credit"></p></details>
@@ -50,7 +58,7 @@
       <div class="range-start"><button id="resume-drill" type="button" class="primary-button">开始练习</button></div>
     </div>
   </details>
-  <details class="drill-help"><summary>怎么练习？</summary><p>先从一行或全部平假名开始。熟悉后依次加入平假名拗音、片假名、片假名拗音，不必急着一次记住全部。</p><p>支持常见写法，如 shi / si、chi / ti、tsu / tu、sha / sya。を 接受 o / wo，ぢ 接受 ji / di，づ 接受 zu / du；は、へ 在这里练习单字本音 ha、he。</p><p>范围会保存在当前浏览器，本轮统计刷新后重置。不计时，也没有每日任务。</p><p>玩法参考 <a href="https://djtguide.neocities.org/kana/" target="_blank" rel="noopener noreferrer">The kana grinding game</a>。使用本站现有的 208 项字库，练习代码独立实现。</p></details>
+  <details class="drill-help"><summary>怎么练习？</summary><p>先从一行或全部平假名开始。熟悉后依次加入平假名拗音、片假名、片假名拗音，不必急着一次记住全部。</p><p>支持常见写法，如 shi / si、chi / ti、tsu / tu、sha / sya。を 接受 o / wo，ぢ 接受 ji / di，づ 接受 zu / du；は、へ 在这里练习单字本音 ha、he。</p><p>听音辨认按不同读音出题，同音字合并，正常听题不算提示。首次进入或刷新后请点击「播放本题」。答对后的录音会播放完整，播放失败可重试或手动下一题。专注模式可用按钮或 Escape 退出。模式与开关、范围会保存在当前浏览器，本轮统计刷新后重置。不计时，也没有每日任务。</p><p>玩法参考 <a href="https://djtguide.neocities.org/kana/" target="_blank" rel="noopener noreferrer">The kana grinding game</a>。使用本站现有的 208 项字库，练习代码独立实现。</p></details>
   <noscript><p>认读练习需要启用 JavaScript。素材文件仍可在本地直接打开。</p></noscript>
 </main>
 <footer><span>五十音手帖 · 无需登录</span><a href="index.html">回到五十音表</a><a href="sources.html">素材与来源</a></footer>

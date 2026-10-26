@@ -40,12 +40,22 @@
   function answers(item) {
     return [...new Set([item.romaji, item.audioReading, ...(variants[item.romaji] || [])].filter(Boolean))];
   }
-  function check(item, value) {
-    const input = normalize(value), accepted = answers(item);
+  function checkAccepted(accepted, value) {
+    const input = normalize(value);
     if (!input) return 'empty';
     if (accepted.includes(input)) return 'correct';
     return accepted.some(x => x.startsWith(input)) ? 'pending' : 'wrong';
   }
+  const check = (item, value) => checkAccepted(answers(item), value);
+  const readingKey = item => item.audioReading || ({wo:'o',di:'ji',du:'zu'}[item.romaji] || item.romaji);
+  function listeningPool(items) {
+    const seen = new Set();
+    return items.filter(item => {const key=readingKey(item);if(seen.has(key))return false;seen.add(key);return true;});
+  }
+  function listeningAnswers(item, items) {
+    return [...new Set(items.filter(x=>readingKey(x)===readingKey(item)).flatMap(answers))];
+  }
+  const checkListening = (item, value, items) => checkAccepted(listeningAnswers(item, items), value);
   class Deck {
     constructor(items, random = Math.random) { this.random = random; this.reset(items); }
     reset(items) { this.items = [...items]; this.bag = []; this.last = null; }
@@ -63,5 +73,5 @@
       const item = this.bag.pop(); this.last = item.id; return item;
     }
   }
-  return {categories, stageIds, pool, answers, check, normalize, Deck};
+  return {categories, stageIds, pool, answers, check, normalize, Deck, readingKey, listeningPool, listeningAnswers, checkListening};
 });
