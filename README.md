@@ -36,3 +36,5 @@ verification.json 记录发布前的程序化检查，不代表全部录音经�
 - 浏览器：安装 Playwright 及 Chromium 后运行 `node tests/drill-browser.cjs` 和 `node tests/drill-coverage.cjs`。
 - 可选环境变量：`PLAYWRIGHT_MODULE` 指向已安装模块，`CHROME_PATH` 指向浏览器程序；`DRILL_URL` 可验证已部署网页，`DRILL_TEST_OUTPUT` 指定测试证据目录（默认系统临时目录）。
 - 浏览器测试验证自动答题、IME、统计、四组/按行选择、录音切换、空范围、存储失败、手机布局和完整208题覆盖。
+
+界面回归：`node --test tests/ui-refine.test.cjs` 和 `node tests/ui-refine-browser.cjs`；浏览器环境配置同上，支持 `STUDY_URL` 和 `UI_TEST_OUTPUT` 指定目标及报告目录。

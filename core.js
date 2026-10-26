@@ -5,5 +5,7 @@
  const aliases={ti:'chi',si:'shi',tu:'tsu',hu:'fu',zi:'ji'};
  const filter=(rows,script,group,search='')=>{let q=toHira(search.trim().toLowerCase());q=aliases[q]||q;return rows.filter(x=>x.script===script&&x.group===group&&(!q||toHira(x.char).includes(q)||x.hira?.includes(q)||x.romaji.includes(q)||x.displayRomaji?.includes(q)));};
  const audioChoices=item=>[item.audio?{key:'djt',src:item.audio,label:'DJT Kana',credit:item.audioCredit}:null,item.audioAlternative?{key:'previous',src:item.audioAlternative,label:'之前录音 · '+item.audioAlternativeProvider,credit:item.audioAlternativeCredit}:null].filter(Boolean);
- return {progress,filter,audioChoices,toHira};
+ const rowLabels={basic:['a','k','s','t','n','h','m','y','r','w','n'],voiced:['g','z','d','b','p'],yoon:['ky','sh','ch','ny','hy','my','ry','gy','j','by','py']};
+ const rowLabel=item=>rowLabels[item.group]?.[item.row]||'';
+ return {progress,filter,audioChoices,toHira,rowLabel};
 });

@@ -34,7 +34,7 @@ const offline=location.protocol==='file:';document.querySelector('.offline').hid
 function renderRomaji(){
  const show=preferences.romaji;document.querySelector('.notes').hidden=!show;
  document.querySelectorAll('.romaji').forEach(n=>n.hidden=!show);
- document.querySelectorAll('.column-label').forEach(n=>{n.style.visibility=show?'':'hidden';n.setAttribute('aria-hidden',String(!show));});
+ document.querySelectorAll('.column-label,.row-label').forEach(n=>{n.style.visibility=show?'':'hidden';n.setAttribute('aria-hidden',String(!show));});
  $('selected-romaji').hidden=!(show||revealed);$('learning-note').hidden=!(show||revealed);
  $('reveal-romaji').hidden=show;$('reveal-romaji').textContent=revealed?'隐藏读音':'查看读音';$('reveal-romaji').setAttribute('aria-expanded',String(revealed));
  $('group-note').textContent=group==='yoon'?'小「ゃ・ゅ・ょ」与前字合读，可直接听完整发音。':show?'按 a、i、u、e、o 排列。点选一个字，查看笔顺与发音。':'点选一个字，查看笔顺与发音。';
@@ -53,7 +53,7 @@ function renderChart(){
  for(const c of columns){const node=document.createElement('span');node.className='column-label';node.textContent=c;grid.append(node);}
  const rowIds=[...new Set(rows.map(x=>x.row))];
  for(const row of rowIds){
-  const label=document.createElement('span');label.className='row-label';const rowItem=rows.find(x=>x.row===row);label.textContent=rowItem.rowLabel.replace('行','');label.lang='ja';grid.append(label);
+  const label=document.createElement('span');label.className='row-label';const rowItem=rows.find(x=>x.row===row);label.textContent=core.rowLabel(rowItem);label.lang='en';grid.append(label);
   for(let col=0;col<columns.length;col++){
    const item=rows.find(x=>x.row===row&&x.col===col);
    if(!item){const empty=document.createElement('span');empty.className='kana-cell empty-slot';empty.setAttribute('aria-hidden','true');grid.append(empty);continue;}

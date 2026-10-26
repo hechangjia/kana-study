@@ -943,5 +943,33 @@
       "Chromium viewport simulation only; no physical handset keyboard or Firefox validation.",
       "Current site bank has 208 entries, not the full set of uncommon combinations on the reference site."
     ]
+  },
+  "navigationRefinement": {
+    "date": "2026-10-26",
+    "browser": {
+      "passed": true,
+      "checks": [
+        "all six charts use left Latin row labels",
+        "filtered irregular syllable row",
+        "hidden romaji hides row clues",
+        "top sources removed; footer retained",
+        "desktop navigation directly above drawing",
+        "forward/back/wraparound",
+        "390px and 320px top sticky mobile navigation",
+        "mobile audio playback",
+        "no overflow",
+        "drill navigation preserved"
+      ],
+      "errors": []
+    },
+    "originalAssetsVerifiedUnchanged": 999,
+    "audioRegression": {
+      "characters": 208,
+      "playableAudioFiles": 172,
+      "passed": true
+    },
+    "limits": [
+      "Chromium desktop and simulated mobile viewports; no physical handset testing."
+    ]
   }
 }
