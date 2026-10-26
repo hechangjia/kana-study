@@ -40,3 +40,5 @@ body.sheet-open{overflow:hidden}
 .chart-foot,.counterpart>span,.drawing-footer,.speed select,.audio-row strong,.audio-row #audio-status,.audio-credit,.pad-section p,.pad-toolbar button,.downloads small,footer{font-size:11px}
 
 .audio-source-row{display:flex;align-items:center;gap:10px;margin-top:10px;font-size:12px}.audio-source-row label{white-space:nowrap;color:var(--muted)}.audio-source-row select{min-width:0;max-width:100%;min-height:36px;padding:6px 8px;border:1px solid var(--line);border-radius:5px;background:white;color:var(--ink);font:inherit}.audio-fallback{font-size:11px;line-height:1.6;color:var(--muted);margin:8px 0}
+/* Let the practice entry wrap as a navigation row instead of squeezing the brand. */
+@media(max-width:780px){.masthead{height:auto;min-height:88px;flex-wrap:wrap;gap:13px;padding:16px 20px}.masthead .brand{flex-shrink:0}.masthead nav{flex-wrap:wrap;gap:18px}.masthead nav a{white-space:nowrap}}

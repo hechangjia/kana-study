@@ -898,5 +898,50 @@
     "Programmatic playback checks, not a full human listening review.",
     "Mobile viewport simulation; no physical handset or Firefox verification.",
     "DJT recording author and redistribution license not verified; not included under other asset licenses."
-  ]
+  ],
+  "recognitionPractice": {
+    "date": "2026-10-26",
+    "passed": true,
+    "characters": 208,
+    "categories": [
+      71,
+      33,
+      71,
+      33
+    ],
+    "browser": {
+      "passed": true,
+      "checks": [
+        "default pool",
+        "automatic advance and focus",
+        "Enter-only mistakes",
+        "composition",
+        "assisted scoring",
+        "skip",
+        "4 stages",
+        "empty saved pool",
+        "row selection and shuffle",
+        "saved range",
+        "previous audio playback",
+        "DJT fallback without preference loss",
+        "stroke GIF",
+        "390/320px layout",
+        "navigation",
+        "storage denied"
+      ],
+      "errors": [],
+      "requests": []
+    },
+    "fullPoolAnswerCoverage": 208,
+    "originalAssetsVerifiedUnchanged": 999,
+    "tests": [
+      "node --test tests/drill.test.cjs",
+      "node tests/drill-browser.cjs",
+      "node tests/drill-coverage.cjs"
+    ],
+    "limits": [
+      "Chromium viewport simulation only; no physical handset keyboard or Firefox validation.",
+      "Current site bank has 208 entries, not the full set of uncommon combinations on the reference site."
+    ]
+  }
 }
